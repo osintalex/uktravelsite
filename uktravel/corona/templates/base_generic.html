@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% block title %}<title>Don't be a Covidiot</title>{% endblock %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An up to date COVID-19 travel website.">
+
+  <title>I WANT TO BREAK FREE</title>
+
+  <!-- Add additional CSS in static file -->
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'css/wing.css' %}">
+  <link rel="stylesheet" href="{% static 'css/fonts.css' %}">
+  <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+  <!-- Add plotly js to make pages load faster -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+{% block navbar %}
+  <div class="nav horizontal-align">
+      <div class="nav-item"><a href="{% url 'index' %}">Home</a></div>
+      <div class="nav-item"><a href="{% url 'outbound' %}">Outbound</a></div>
+      <div class="nav-item"><a href="{% url 'inbound' %}">Inbound</a></div>
+      <div class="nav-item"><a href="{% url 'search' %}">Search</a></div>
+      <div class="nav-item"><a href="{% url 'about' %}">About</a></div>
+  </div>
+{% endblock %}
+<div>{% block content %} <!-- page content goes here --> {% endblock %}</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{% extends "base_generic.html" %}
+{% block content %}
+<h6 class="text-center">If a country below is green, then you DO NOT need to quarantine when you return to the UK.
+    <br>If it isn't green, then you DO need to quarantine when you return to the UK.</h6>
+{% autoescape off %}
+{{ plot_div }}
+{% endautoescape %}
+{% endblock %}

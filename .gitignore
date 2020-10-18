@@ -1,0 +1,7 @@
+venv/
+dev-notes.py
+.idea
+uktravel/.credentials
+**/__pycache__
+*.DS_Store
+
