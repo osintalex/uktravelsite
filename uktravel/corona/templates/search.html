@@ -1,7 +1,10 @@
 {% extends "base_generic.html" %}
 {% block content %}
-  <section class="hero container center text-center">
+<section class="hero container center text-center">
     <div>
-    <h3>Search funciton goes here.</h3>
+    <form action="{% url 'search_results' %}" method="get">
+  <input name="q" type="text" placeholder="Enter a country of interest here...">
+</form>
+    </div>
   </section>
 {% endblock %}

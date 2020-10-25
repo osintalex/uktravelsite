@@ -1,0 +1,21 @@
+{% extends "base_generic.html" %}
+{% block content %}
+  {% for country in object_list %}
+<div class="card text-center">
+    <p class="card-header">{{ country.name }} <br>Information Updated {{ country.date_of_information }}</p>
+    <p class="card-body"><i> Coronavirus Restrictions </i><br>{{ country.corona }}</p>
+    <p class="card-body"><i>Quarantine Requirements</i> <br>{{ country.quarantine }}</p>
+    <div class="card-footer center text-center"><p><a href="{% url 'search' %}">Back</a></p></div>
+  </div>
+  {% empty %}
+  <section class="hero container center text-center">
+    <div>
+    <h5>Country not found</h5>
+    <a href="{% url 'search' %}"><button>Try Again</button></a>
+        <br>
+        <br>
+        <br>
+    </div>
+  </section>
+  {% endfor %}
+{% endblock %}
