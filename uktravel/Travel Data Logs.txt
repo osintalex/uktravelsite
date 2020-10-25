@@ -1,0 +1,2622 @@
+2020-10-24 00:03:37,625 - Acquiring data for afghanistan
+2020-10-24 00:04:46,743 - Acquiring data for afghanistan
+2020-10-24 00:04:47,294 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:47,295 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:47,498 - Acquiring data for albania
+2020-10-24 00:04:47,749 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:47,749 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:47,953 - Acquiring data for algeria
+2020-10-24 00:04:48,249 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:48,249 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:48,453 - Acquiring data for andorra
+2020-10-24 00:04:48,692 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:48,692 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:48,894 - Acquiring data for angola
+2020-10-24 00:04:49,149 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:49,149 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:49,352 - Acquiring data for anguilla
+2020-10-24 00:04:49,602 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:49,602 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:49,803 - Acquiring data for antigua-and-barbuda
+2020-10-24 00:04:50,069 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:50,069 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:50,270 - Acquiring data for argentina
+2020-10-24 00:04:50,575 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:50,576 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:50,781 - Acquiring data for armenia
+2020-10-24 00:04:51,027 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:51,027 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:51,228 - Acquiring data for aruba
+2020-10-24 00:04:51,623 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:51,624 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:51,826 - Acquiring data for australia
+2020-10-24 00:04:52,112 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:52,113 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:52,314 - Acquiring data for austria
+2020-10-24 00:04:52,573 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:52,573 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:52,776 - Acquiring data for azerbaijan
+2020-10-24 00:04:53,055 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:53,055 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:53,260 - Acquiring data for bahamas
+2020-10-24 00:04:53,527 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:53,527 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:53,731 - Acquiring data for bahrain
+2020-10-24 00:04:53,996 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:53,997 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:54,197 - Acquiring data for bangladesh
+2020-10-24 00:04:54,490 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:54,490 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:54,695 - Acquiring data for barbados
+2020-10-24 00:04:54,955 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:54,955 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:55,155 - Acquiring data for belarus
+2020-10-24 00:04:56,845 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:56,845 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:57,049 - Acquiring data for belgium
+2020-10-24 00:04:57,610 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:57,611 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:57,814 - Acquiring data for belize
+2020-10-24 00:04:58,074 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:58,074 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:58,277 - Acquiring data for benin
+2020-10-24 00:04:58,543 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:58,543 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:58,748 - Acquiring data for bermuda
+2020-10-24 00:04:59,000 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:59,000 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:59,201 - Acquiring data for bhutan
+2020-10-24 00:04:59,443 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:59,444 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:04:59,649 - Acquiring data for bolivia
+2020-10-24 00:04:59,912 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:04:59,912 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:00,114 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-24 00:05:00,355 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:00,355 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:00,561 - Acquiring data for bosnia-and-herzegovina
+2020-10-24 00:05:00,822 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:00,822 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:01,027 - Acquiring data for botswana
+2020-10-24 00:05:01,272 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:01,272 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:01,477 - Acquiring data for brazil
+2020-10-24 00:05:01,751 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:01,751 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:01,956 - Acquiring data for british-antarctic-territory
+2020-10-24 00:05:02,188 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:02,188 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:02,389 - Acquiring data for british-indian-ocean-territory
+2020-10-24 00:05:02,621 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:02,621 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:02,821 - Acquiring data for british-virgin-islands
+2020-10-24 00:05:03,088 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:03,088 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:03,290 - Acquiring data for brunei
+2020-10-24 00:05:03,538 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:03,539 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:03,742 - Acquiring data for bulgaria
+2020-10-24 00:05:04,009 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:04,009 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:04,214 - Acquiring data for burkina-faso
+2020-10-24 00:05:04,481 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:04,481 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:04,684 - Acquiring data for burundi
+2020-10-24 00:05:04,930 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:04,931 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:05,133 - Acquiring data for cambodia
+2020-10-24 00:05:05,415 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:05,415 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:05,616 - Acquiring data for cameroon
+2020-10-24 00:05:05,891 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:05,891 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:06,096 - Acquiring data for canada
+2020-10-24 00:05:06,390 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:06,390 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:06,592 - Acquiring data for cape-verde
+2020-10-24 00:05:06,850 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:06,850 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:07,052 - Acquiring data for cayman-islands
+2020-10-24 00:05:07,383 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:07,384 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:07,584 - Acquiring data for central-african-republic
+2020-10-24 00:05:07,855 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:07,855 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:08,059 - Acquiring data for chad
+2020-10-24 00:05:08,319 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:08,319 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:08,519 - Acquiring data for chile
+2020-10-24 00:05:08,798 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:08,798 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:09,000 - Acquiring data for china
+2020-10-24 00:05:09,296 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:09,296 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:09,501 - Acquiring data for colombia
+2020-10-24 00:05:09,778 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:09,778 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:09,982 - Acquiring data for comoros
+2020-10-24 00:05:10,230 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:10,230 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:10,432 - Acquiring data for congo
+2020-10-24 00:05:10,680 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:10,680 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:10,882 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-24 00:05:11,127 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:11,127 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:11,332 - Acquiring data for costa-rica
+2020-10-24 00:05:11,616 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:11,616 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:11,816 - Acquiring data for cote-d-ivoire
+2020-10-24 00:05:12,075 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:12,075 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:12,277 - Acquiring data for croatia
+2020-10-24 00:05:12,538 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:12,538 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:12,744 - Acquiring data for cuba
+2020-10-24 00:05:13,051 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:13,051 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:13,255 - Acquiring data for curacao
+2020-10-24 00:05:13,494 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:13,495 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:13,700 - Acquiring data for cyprus
+2020-10-24 00:05:13,976 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:13,977 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:14,184 - Acquiring data for czech-republic
+2020-10-24 00:05:14,489 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:14,489 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:14,690 - Acquiring data for democratic-republic-of-the-congo
+2020-10-24 00:05:14,958 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:14,959 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:15,164 - Acquiring data for denmark
+2020-10-24 00:05:15,436 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:15,437 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:15,640 - Acquiring data for djibouti
+2020-10-24 00:05:15,900 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:15,900 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:16,104 - Acquiring data for dominica
+2020-10-24 00:05:16,371 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:16,371 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:16,571 - Acquiring data for dominican-republic
+2020-10-24 00:05:16,947 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:16,947 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:17,151 - Acquiring data for ecuador
+2020-10-24 00:05:17,613 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:17,613 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:17,815 - Acquiring data for egypt
+2020-10-24 00:05:18,108 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:18,108 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:18,309 - Acquiring data for el-salvador
+2020-10-24 00:05:18,559 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:18,559 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:18,764 - Acquiring data for equatorial-guinea
+2020-10-24 00:05:19,025 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:19,025 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:19,229 - Acquiring data for eritrea
+2020-10-24 00:05:19,486 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:19,486 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:19,686 - Acquiring data for estonia
+2020-10-24 00:05:19,941 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:19,941 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:20,142 - Acquiring data for eswatini
+2020-10-24 00:05:20,395 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:20,395 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:20,596 - Acquiring data for ethiopia
+2020-10-24 00:05:20,880 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:20,880 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:21,085 - Acquiring data for falkland-islands
+2020-10-24 00:05:21,327 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:21,327 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:21,529 - Acquiring data for fiji
+2020-10-24 00:05:21,776 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:21,776 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:21,979 - Acquiring data for finland
+2020-10-24 00:05:22,231 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:22,232 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:22,434 - Acquiring data for france
+2020-10-24 00:05:22,749 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:22,767 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:22,972 - Acquiring data for french-guiana
+2020-10-24 00:05:23,247 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:23,247 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:23,447 - Acquiring data for french-polynesia
+2020-10-24 00:05:23,701 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:23,702 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:23,907 - Acquiring data for gabon
+2020-10-24 00:05:24,146 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:24,146 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:24,348 - Acquiring data for the-gambia
+2020-10-24 00:05:24,618 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:24,618 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:24,819 - Acquiring data for georgia
+2020-10-24 00:05:25,092 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:25,092 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:25,294 - Acquiring data for germany
+2020-10-24 00:05:25,556 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:25,557 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:25,760 - Acquiring data for ghana
+2020-10-24 00:05:26,026 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:26,026 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:26,230 - Acquiring data for gibraltar
+2020-10-24 00:05:26,477 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:26,477 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:26,680 - Acquiring data for greece
+2020-10-24 00:05:26,995 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:26,995 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:27,198 - Acquiring data for grenada
+2020-10-24 00:05:27,454 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:27,456 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:27,657 - Acquiring data for guadeloupe
+2020-10-24 00:05:27,920 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:27,920 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:28,121 - Acquiring data for guatemala
+2020-10-24 00:05:28,430 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:28,431 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:28,631 - Acquiring data for guinea
+2020-10-24 00:05:28,927 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:28,928 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:29,130 - Acquiring data for guinea-bissau
+2020-10-24 00:05:29,379 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:29,379 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:29,580 - Acquiring data for guyana
+2020-10-24 00:05:29,844 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:29,844 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:30,046 - Acquiring data for haiti
+2020-10-24 00:05:30,310 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:30,310 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:30,515 - Acquiring data for honduras
+2020-10-24 00:05:30,791 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:30,791 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:30,994 - Acquiring data for hong-kong
+2020-10-24 00:05:31,278 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:31,278 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:31,482 - Acquiring data for hungary
+2020-10-24 00:05:31,808 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:31,808 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:32,008 - Acquiring data for iceland
+2020-10-24 00:05:32,277 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:32,277 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:32,480 - Acquiring data for india
+2020-10-24 00:05:32,799 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:32,799 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:32,999 - Acquiring data for indonesia
+2020-10-24 00:05:33,300 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:33,300 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:33,502 - Acquiring data for iran
+2020-10-24 00:05:33,769 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:33,769 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:33,970 - Acquiring data for iraq
+2020-10-24 00:05:34,288 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:34,288 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:34,490 - Acquiring data for ireland
+2020-10-24 00:05:34,742 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:34,742 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:34,943 - Acquiring data for israel
+2020-10-24 00:05:35,232 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:35,232 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:35,433 - Acquiring data for italy
+2020-10-24 00:05:35,713 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:35,713 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:35,915 - Acquiring data for jamaica
+2020-10-24 00:05:36,195 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:36,195 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:36,400 - Acquiring data for japan
+2020-10-24 00:05:36,687 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:36,687 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:36,892 - Acquiring data for jordan
+2020-10-24 00:05:37,175 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:37,175 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:37,380 - Acquiring data for kazakhstan
+2020-10-24 00:05:37,635 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:37,635 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:37,835 - Acquiring data for kenya
+2020-10-24 00:05:38,121 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:38,121 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:38,324 - Acquiring data for kiribati
+2020-10-24 00:05:38,562 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:38,562 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:38,765 - Acquiring data for kosovo
+2020-10-24 00:05:39,046 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:39,046 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:39,246 - Acquiring data for kuwait
+2020-10-24 00:05:39,487 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:39,487 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:39,688 - Acquiring data for kyrgyzstan
+2020-10-24 00:05:39,941 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:39,941 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:40,145 - Acquiring data for laos
+2020-10-24 00:05:40,412 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:40,412 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:40,615 - Acquiring data for latvia
+2020-10-24 00:05:40,878 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:40,878 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:41,080 - Acquiring data for lebanon
+2020-10-24 00:05:41,364 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:41,364 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:41,565 - Acquiring data for lesotho
+2020-10-24 00:05:41,820 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:41,820 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:42,026 - Acquiring data for liberia
+2020-10-24 00:05:42,286 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:42,286 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:42,486 - Acquiring data for libya
+2020-10-24 00:05:42,740 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:42,740 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:42,944 - Acquiring data for liechtenstein
+2020-10-24 00:05:43,195 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:43,195 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:43,396 - Acquiring data for lithuania
+2020-10-24 00:05:43,658 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:43,658 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:43,861 - Acquiring data for luxembourg
+2020-10-24 00:05:44,224 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:44,224 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:44,427 - Acquiring data for macao
+2020-10-24 00:05:44,676 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:44,677 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:44,880 - Acquiring data for madagascar
+2020-10-24 00:05:45,147 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:45,147 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:45,348 - Acquiring data for malawi
+2020-10-24 00:05:45,602 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:45,602 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:45,803 - Acquiring data for malaysia
+2020-10-24 00:05:46,100 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:46,100 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:46,305 - Acquiring data for maldives
+2020-10-24 00:05:46,578 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:46,578 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:46,783 - Acquiring data for mali
+2020-10-24 00:05:47,063 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:47,063 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:47,269 - Acquiring data for malta
+2020-10-24 00:05:47,517 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:47,517 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:47,717 - Acquiring data for marshall-islands
+2020-10-24 00:05:47,954 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:47,955 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:48,155 - Acquiring data for martinique
+2020-10-24 00:05:48,380 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:48,380 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:48,580 - Acquiring data for mauritania
+2020-10-24 00:05:48,832 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:48,832 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:49,033 - Acquiring data for mauritius
+2020-10-24 00:05:49,280 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:49,281 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:49,482 - Acquiring data for mayotte
+2020-10-24 00:05:49,727 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:49,727 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:49,931 - Acquiring data for mexico
+2020-10-24 00:05:50,214 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:50,214 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:50,417 - Acquiring data for micronesia
+2020-10-24 00:05:50,648 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:50,649 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:50,850 - Acquiring data for moldova
+2020-10-24 00:05:51,248 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:51,249 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:51,450 - Acquiring data for monaco
+2020-10-24 00:05:51,720 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:51,720 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:51,921 - Acquiring data for mongolia
+2020-10-24 00:05:52,384 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:52,384 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:52,584 - Acquiring data for montenegro
+2020-10-24 00:05:52,863 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:52,863 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:53,065 - Acquiring data for montserrat
+2020-10-24 00:05:53,311 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:53,312 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:53,515 - Acquiring data for morocco
+2020-10-24 00:05:53,787 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:53,787 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:53,990 - Acquiring data for mozambique
+2020-10-24 00:05:54,258 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:54,258 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:54,459 - Acquiring data for myanmar
+2020-10-24 00:05:54,771 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:54,772 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:54,975 - Acquiring data for namibia
+2020-10-24 00:05:55,236 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:55,236 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:55,438 - Acquiring data for nauru
+2020-10-24 00:05:55,688 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:55,688 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:55,892 - Acquiring data for nepal
+2020-10-24 00:05:56,170 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:56,170 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:56,374 - Acquiring data for netherlands
+2020-10-24 00:05:56,639 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:56,639 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:56,842 - Acquiring data for new-caledonia
+2020-10-24 00:05:57,102 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:57,102 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:57,305 - Acquiring data for new-zealand
+2020-10-24 00:05:57,578 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:57,578 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:57,780 - Acquiring data for nicaragua
+2020-10-24 00:05:58,026 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:58,026 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:58,230 - Acquiring data for niger
+2020-10-24 00:05:58,489 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:58,489 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:58,692 - Acquiring data for nigeria
+2020-10-24 00:05:58,983 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:58,983 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:59,184 - Acquiring data for north-korea
+2020-10-24 00:05:59,436 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:59,436 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:05:59,637 - Acquiring data for north-macedonia
+2020-10-24 00:05:59,898 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:05:59,899 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:00,100 - Acquiring data for norway
+2020-10-24 00:06:00,360 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:00,360 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:00,563 - Acquiring data for oman
+2020-10-24 00:06:00,833 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:00,833 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:01,034 - Acquiring data for pakistan
+2020-10-24 00:06:01,324 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:01,324 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:01,528 - Acquiring data for palau
+2020-10-24 00:06:01,767 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:01,768 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:01,973 - Acquiring data for the-occupied-palestinian-territories
+2020-10-24 00:06:02,248 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:02,249 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:02,454 - Acquiring data for panama
+2020-10-24 00:06:02,723 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:02,723 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:02,928 - Acquiring data for papua-new-guinea
+2020-10-24 00:06:03,208 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:03,208 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:03,411 - Acquiring data for paraguay
+2020-10-24 00:06:03,688 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:03,688 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:03,890 - Acquiring data for peru
+2020-10-24 00:06:04,174 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:04,174 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:04,378 - Acquiring data for philippines
+2020-10-24 00:06:04,666 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:04,666 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:04,871 - Acquiring data for pitcairn-island
+2020-10-24 00:06:05,110 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:05,110 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:05,315 - Acquiring data for poland
+2020-10-24 00:06:05,587 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:05,587 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:05,789 - Acquiring data for portugal
+2020-10-24 00:06:06,066 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:06,067 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:06,269 - Acquiring data for qatar
+2020-10-24 00:06:06,528 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:06,529 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:06,730 - Acquiring data for reunion
+2020-10-24 00:06:07,046 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:07,046 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:07,251 - Acquiring data for romania
+2020-10-24 00:06:07,521 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:07,521 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:07,721 - Acquiring data for russia
+2020-10-24 00:06:07,997 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:07,998 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:08,202 - Acquiring data for rwanda
+2020-10-24 00:06:08,525 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:08,525 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:08,728 - Acquiring data for samoa
+2020-10-24 00:06:08,970 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:08,970 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:09,172 - Acquiring data for san-marino
+2020-10-24 00:06:09,412 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:09,413 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:09,615 - Acquiring data for sao-tome-and-principe
+2020-10-24 00:06:09,861 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:09,861 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:10,065 - Acquiring data for saudi-arabia
+2020-10-24 00:06:10,361 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:10,361 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:10,565 - Acquiring data for senegal
+2020-10-24 00:06:10,819 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:10,819 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:11,019 - Acquiring data for serbia
+2020-10-24 00:06:11,315 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:11,315 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:11,518 - Acquiring data for seychelles
+2020-10-24 00:06:11,775 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:11,775 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:11,978 - Acquiring data for sierra-leone
+2020-10-24 00:06:12,229 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:12,229 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:12,432 - Acquiring data for singapore
+2020-10-24 00:06:12,679 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:12,679 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:12,884 - Acquiring data for slovakia
+2020-10-24 00:06:13,164 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:13,165 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:13,365 - Acquiring data for slovenia
+2020-10-24 00:06:13,623 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:13,623 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:13,828 - Acquiring data for solomon-islands
+2020-10-24 00:06:14,241 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:14,242 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:14,446 - Acquiring data for somalia
+2020-10-24 00:06:14,726 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:14,726 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:14,928 - Acquiring data for south-africa
+2020-10-24 00:06:15,205 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:15,206 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:15,406 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-24 00:06:15,742 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:15,742 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:15,943 - Acquiring data for south-korea
+2020-10-24 00:06:16,312 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:16,312 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:16,515 - Acquiring data for south-sudan
+2020-10-24 00:06:16,859 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:16,859 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:17,059 - Acquiring data for spain
+2020-10-24 00:06:17,424 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:17,424 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:17,625 - Acquiring data for sri-lanka
+2020-10-24 00:06:17,948 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:17,948 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:18,149 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-24 00:06:18,479 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:18,480 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:18,681 - Acquiring data for st-kitts-and-nevis
+2020-10-24 00:06:18,922 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:18,922 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:19,126 - Acquiring data for st-lucia
+2020-10-24 00:06:19,425 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:19,425 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:19,626 - Acquiring data for st-maarten
+2020-10-24 00:06:19,863 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:19,863 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:20,064 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-24 00:06:20,288 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:20,288 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:20,488 - Acquiring data for st-pierre-and-miquelon
+2020-10-24 00:06:20,848 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:20,848 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:21,050 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-24 00:06:21,402 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:21,403 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:21,608 - Acquiring data for sudan
+2020-10-24 00:06:21,922 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:21,922 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:22,126 - Acquiring data for suriname
+2020-10-24 00:06:22,380 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:22,381 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:22,582 - Acquiring data for sweden
+2020-10-24 00:06:22,863 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:22,863 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:23,066 - Acquiring data for switzerland
+2020-10-24 00:06:23,375 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:23,376 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:23,581 - Acquiring data for syria
+2020-10-24 00:06:23,850 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:23,850 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:24,051 - Acquiring data for taiwan
+2020-10-24 00:06:24,503 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:24,503 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:24,704 - Acquiring data for tajikistan
+2020-10-24 00:06:24,957 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:24,957 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:25,160 - Acquiring data for tanzania
+2020-10-24 00:06:25,524 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:25,525 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:25,726 - Acquiring data for thailand
+2020-10-24 00:06:26,276 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:26,277 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:26,481 - Acquiring data for timor-leste
+2020-10-24 00:06:26,762 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:26,762 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:26,966 - Acquiring data for togo
+2020-10-24 00:06:27,241 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:27,241 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:27,441 - Acquiring data for tonga
+2020-10-24 00:06:27,742 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:27,742 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:27,943 - Acquiring data for trinidad-and-tobago
+2020-10-24 00:06:28,305 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:28,305 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:28,510 - Acquiring data for tunisia
+2020-10-24 00:06:28,858 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:28,858 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:29,062 - Acquiring data for turkey
+2020-10-24 00:06:29,357 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:29,357 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:29,558 - Acquiring data for turkmenistan
+2020-10-24 00:06:29,811 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:29,811 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:30,016 - Acquiring data for turks-and-caicos-islands
+2020-10-24 00:06:30,248 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:30,249 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:30,449 - Acquiring data for tuvalu
+2020-10-24 00:06:30,704 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:30,705 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:30,907 - Acquiring data for usa
+2020-10-24 00:06:31,200 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:31,200 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:31,404 - Acquiring data for uganda
+2020-10-24 00:06:31,683 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:31,683 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:31,887 - Acquiring data for ukraine
+2020-10-24 00:06:32,177 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:32,177 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:32,378 - Acquiring data for united-arab-emirates
+2020-10-24 00:06:32,650 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:32,650 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:32,855 - Acquiring data for uruguay
+2020-10-24 00:06:33,111 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:33,112 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:33,316 - Acquiring data for uzbekistan
+2020-10-24 00:06:33,576 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:33,577 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:33,778 - Acquiring data for vanuatu
+2020-10-24 00:06:34,104 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:34,104 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:34,307 - Acquiring data for venezuela
+2020-10-24 00:06:34,586 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:34,586 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:34,787 - Acquiring data for vietnam
+2020-10-24 00:06:35,067 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:35,067 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:35,269 - Acquiring data for wallis-and-futuna
+2020-10-24 00:06:35,594 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:35,594 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:35,800 - Acquiring data for western-sahara
+2020-10-24 00:06:36,063 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:36,063 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:36,266 - Acquiring data for yemen
+2020-10-24 00:06:36,619 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:36,619 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:36,820 - Acquiring data for zambia
+2020-10-24 00:06:37,335 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:37,336 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:06:37,544 - Acquiring data for zimbabwe
+2020-10-24 00:06:37,955 - Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2020-10-24 00:06:37,955 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:11:56,494 - Acquiring data for afghanistan
+2020-10-24 00:11:57,058 - Acquiring data for albania
+2020-10-24 00:11:57,613 - Acquiring data for algeria
+2020-10-24 00:11:58,079 - Acquiring data for andorra
+2020-10-24 00:11:58,365 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:11:58,365 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:11:58,566 - Acquiring data for angola
+2020-10-24 00:11:59,122 - Acquiring data for anguilla
+2020-10-24 00:11:59,579 - Acquiring data for antigua-and-barbuda
+2020-10-24 00:12:00,055 - Acquiring data for argentina
+2020-10-24 00:12:00,555 - Acquiring data for armenia
+2020-10-24 00:12:01,034 - Acquiring data for aruba
+2020-10-24 00:12:01,511 - Acquiring data for australia
+2020-10-24 00:12:02,014 - Acquiring data for austria
+2020-10-24 00:12:02,477 - Acquiring data for azerbaijan
+2020-10-24 00:12:02,963 - Acquiring data for bahamas
+2020-10-24 00:12:03,487 - Acquiring data for bahrain
+2020-10-24 00:12:03,960 - Acquiring data for bangladesh
+2020-10-24 00:12:04,472 - Acquiring data for barbados
+2020-10-24 00:12:04,954 - Acquiring data for belarus
+2020-10-24 00:12:05,421 - Acquiring data for belgium
+2020-10-24 00:12:05,910 - Acquiring data for belize
+2020-10-24 00:12:06,372 - Acquiring data for benin
+2020-10-24 00:12:06,822 - Acquiring data for bermuda
+2020-10-24 00:12:07,263 - Acquiring data for bhutan
+2020-10-24 00:12:07,554 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:12:07,554 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:12:07,760 - Acquiring data for bolivia
+2020-10-24 00:12:08,222 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-24 00:12:08,740 - Acquiring data for bosnia-and-herzegovina
+2020-10-24 00:12:09,211 - Acquiring data for botswana
+2020-10-24 00:12:09,706 - Acquiring data for brazil
+2020-10-24 00:12:10,232 - Acquiring data for british-antarctic-territory
+2020-10-24 00:12:10,501 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:12:10,501 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:12:10,703 - Acquiring data for british-indian-ocean-territory
+2020-10-24 00:12:11,156 - Acquiring data for british-virgin-islands
+2020-10-24 00:12:11,628 - Acquiring data for brunei
+2020-10-24 00:12:12,085 - Acquiring data for bulgaria
+2020-10-24 00:12:12,561 - Acquiring data for burkina-faso
+2020-10-24 00:12:13,011 - Acquiring data for burundi
+2020-10-24 00:12:13,462 - Acquiring data for cambodia
+2020-10-24 00:12:13,935 - Acquiring data for cameroon
+2020-10-24 00:12:14,411 - Acquiring data for canada
+2020-10-24 00:12:15,058 - Acquiring data for cape-verde
+2020-10-24 00:12:15,533 - Acquiring data for cayman-islands
+2020-10-24 00:12:15,978 - Acquiring data for central-african-republic
+2020-10-24 00:12:16,494 - Acquiring data for chad
+2020-10-24 00:12:16,972 - Acquiring data for chile
+2020-10-24 00:12:17,435 - Acquiring data for china
+2020-10-24 00:12:17,942 - Acquiring data for colombia
+2020-10-24 00:12:18,730 - Acquiring data for comoros
+2020-10-24 00:12:19,180 - Acquiring data for congo
+2020-10-24 00:12:19,642 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-24 00:12:20,310 - Acquiring data for costa-rica
+2020-10-24 00:12:20,774 - Acquiring data for cote-d-ivoire
+2020-10-24 00:12:21,489 - Acquiring data for croatia
+2020-10-24 00:12:21,973 - Acquiring data for cuba
+2020-10-24 00:12:22,442 - Acquiring data for curacao
+2020-10-24 00:12:22,890 - Acquiring data for cyprus
+2020-10-24 00:12:23,369 - Acquiring data for czech-republic
+2020-10-24 00:12:23,879 - Acquiring data for democratic-republic-of-the-congo
+2020-10-24 00:12:24,383 - Acquiring data for denmark
+2020-10-24 00:12:24,875 - Acquiring data for djibouti
+2020-10-24 00:12:25,322 - Acquiring data for dominica
+2020-10-24 00:12:25,778 - Acquiring data for dominican-republic
+2020-10-24 00:12:26,257 - Acquiring data for ecuador
+2020-10-24 00:12:26,760 - Acquiring data for egypt
+2020-10-24 00:12:27,240 - Acquiring data for el-salvador
+2020-10-24 00:12:27,711 - Acquiring data for equatorial-guinea
+2020-10-24 00:12:28,192 - Acquiring data for eritrea
+2020-10-24 00:12:28,686 - Acquiring data for estonia
+2020-10-24 00:12:29,138 - Acquiring data for eswatini
+2020-10-24 00:12:29,604 - Acquiring data for ethiopia
+2020-10-24 00:12:30,120 - Acquiring data for falkland-islands
+2020-10-24 00:12:30,660 - Acquiring data for fiji
+2020-10-24 00:12:31,172 - Acquiring data for finland
+2020-10-24 00:12:31,623 - Acquiring data for france
+2020-10-24 00:12:32,114 - Acquiring data for french-guiana
+2020-10-24 00:12:32,568 - Acquiring data for french-polynesia
+2020-10-24 00:12:33,018 - Acquiring data for gabon
+2020-10-24 00:12:33,465 - Acquiring data for the-gambia
+2020-10-24 00:12:33,935 - Acquiring data for georgia
+2020-10-24 00:12:34,426 - Acquiring data for germany
+2020-10-24 00:12:34,906 - Acquiring data for ghana
+2020-10-24 00:12:35,385 - Acquiring data for gibraltar
+2020-10-24 00:12:35,839 - Acquiring data for greece
+2020-10-24 00:12:36,366 - Acquiring data for grenada
+2020-10-24 00:12:36,838 - Acquiring data for guadeloupe
+2020-10-24 00:12:37,293 - Acquiring data for guatemala
+2020-10-24 00:12:37,780 - Acquiring data for guinea
+2020-10-24 00:12:38,285 - Acquiring data for guinea-bissau
+2020-10-24 00:12:38,724 - Acquiring data for guyana
+2020-10-24 00:12:39,192 - Acquiring data for haiti
+2020-10-24 00:12:39,656 - Acquiring data for honduras
+2020-10-24 00:12:40,346 - Acquiring data for hong-kong
+2020-10-24 00:12:40,835 - Acquiring data for hungary
+2020-10-24 00:12:41,312 - Acquiring data for iceland
+2020-10-24 00:12:41,776 - Acquiring data for india
+2020-10-24 00:12:42,276 - Acquiring data for indonesia
+2020-10-24 00:12:42,787 - Acquiring data for iran
+2020-10-24 00:12:43,276 - Acquiring data for iraq
+2020-10-24 00:12:43,760 - Acquiring data for ireland
+2020-10-24 00:12:44,240 - Acquiring data for israel
+2020-10-24 00:12:44,748 - Acquiring data for italy
+2020-10-24 00:12:45,236 - Acquiring data for jamaica
+2020-10-24 00:12:45,730 - Acquiring data for japan
+2020-10-24 00:12:46,277 - Acquiring data for jordan
+2020-10-24 00:12:46,764 - Acquiring data for kazakhstan
+2020-10-24 00:12:47,226 - Acquiring data for kenya
+2020-10-24 00:12:47,732 - Acquiring data for kiribati
+2020-10-24 00:12:48,208 - Acquiring data for kosovo
+2020-10-24 00:12:48,673 - Acquiring data for kuwait
+2020-10-24 00:12:49,109 - Acquiring data for kyrgyzstan
+2020-10-24 00:12:49,573 - Acquiring data for laos
+2020-10-24 00:12:50,058 - Acquiring data for latvia
+2020-10-24 00:12:50,565 - Acquiring data for lebanon
+2020-10-24 00:12:51,070 - Acquiring data for lesotho
+2020-10-24 00:12:51,523 - Acquiring data for liberia
+2020-10-24 00:12:51,992 - Acquiring data for libya
+2020-10-24 00:12:52,258 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:12:52,258 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:12:52,464 - Acquiring data for liechtenstein
+2020-10-24 00:12:52,923 - Acquiring data for lithuania
+2020-10-24 00:12:53,403 - Acquiring data for luxembourg
+2020-10-24 00:12:53,669 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:12:53,669 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:12:53,873 - Acquiring data for macao
+2020-10-24 00:12:54,335 - Acquiring data for madagascar
+2020-10-24 00:12:54,830 - Acquiring data for malawi
+2020-10-24 00:12:55,317 - Acquiring data for malaysia
+2020-10-24 00:12:55,812 - Acquiring data for maldives
+2020-10-24 00:12:56,303 - Acquiring data for mali
+2020-10-24 00:12:56,812 - Acquiring data for malta
+2020-10-24 00:12:57,276 - Acquiring data for marshall-islands
+2020-10-24 00:12:57,754 - Acquiring data for martinique
+2020-10-24 00:12:58,219 - Acquiring data for mauritania
+2020-10-24 00:12:58,674 - Acquiring data for mauritius
+2020-10-24 00:12:59,145 - Acquiring data for mayotte
+2020-10-24 00:12:59,609 - Acquiring data for mexico
+2020-10-24 00:13:00,195 - Acquiring data for micronesia
+2020-10-24 00:13:00,641 - Acquiring data for moldova
+2020-10-24 00:13:01,120 - Acquiring data for monaco
+2020-10-24 00:13:03,463 - Acquiring data for mongolia
+2020-10-24 00:13:03,960 - Acquiring data for montenegro
+2020-10-24 00:13:04,447 - Acquiring data for montserrat
+2020-10-24 00:13:04,930 - Acquiring data for morocco
+2020-10-24 00:13:05,419 - Acquiring data for mozambique
+2020-10-24 00:13:05,915 - Acquiring data for myanmar
+2020-10-24 00:13:06,481 - Acquiring data for namibia
+2020-10-24 00:13:06,959 - Acquiring data for nauru
+2020-10-24 00:13:07,423 - Acquiring data for nepal
+2020-10-24 00:13:07,894 - Acquiring data for netherlands
+2020-10-24 00:13:08,381 - Acquiring data for new-caledonia
+2020-10-24 00:13:08,860 - Acquiring data for new-zealand
+2020-10-24 00:13:09,329 - Acquiring data for nicaragua
+2020-10-24 00:13:09,841 - Acquiring data for niger
+2020-10-24 00:13:10,346 - Acquiring data for nigeria
+2020-10-24 00:13:10,880 - Acquiring data for north-korea
+2020-10-24 00:13:11,365 - Acquiring data for north-macedonia
+2020-10-24 00:13:11,836 - Acquiring data for norway
+2020-10-24 00:13:12,373 - Acquiring data for oman
+2020-10-24 00:13:12,837 - Acquiring data for pakistan
+2020-10-24 00:13:13,362 - Acquiring data for palau
+2020-10-24 00:13:13,814 - Acquiring data for the-occupied-palestinian-territories
+2020-10-24 00:13:14,313 - Acquiring data for panama
+2020-10-24 00:13:14,795 - Acquiring data for papua-new-guinea
+2020-10-24 00:13:15,269 - Acquiring data for paraguay
+2020-10-24 00:13:15,773 - Acquiring data for peru
+2020-10-24 00:13:16,272 - Acquiring data for philippines
+2020-10-24 00:13:16,785 - Acquiring data for pitcairn-island
+2020-10-24 00:13:17,246 - Acquiring data for poland
+2020-10-24 00:13:17,768 - Acquiring data for portugal
+2020-10-24 00:13:18,269 - Acquiring data for qatar
+2020-10-24 00:13:20,266 - Acquiring data for reunion
+2020-10-24 00:13:20,758 - Acquiring data for romania
+2020-10-24 00:13:21,227 - Acquiring data for russia
+2020-10-24 00:13:21,723 - Acquiring data for rwanda
+2020-10-24 00:13:22,223 - Acquiring data for samoa
+2020-10-24 00:13:23,946 - Acquiring data for san-marino
+2020-10-24 00:13:24,206 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:13:24,206 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:13:24,415 - Acquiring data for sao-tome-and-principe
+2020-10-24 00:13:24,941 - Acquiring data for saudi-arabia
+2020-10-24 00:13:25,474 - Acquiring data for senegal
+2020-10-24 00:13:25,926 - Acquiring data for serbia
+2020-10-24 00:13:26,381 - Acquiring data for seychelles
+2020-10-24 00:13:26,862 - Acquiring data for sierra-leone
+2020-10-24 00:13:27,323 - Acquiring data for singapore
+2020-10-24 00:13:27,812 - Acquiring data for slovakia
+2020-10-24 00:13:28,309 - Acquiring data for slovenia
+2020-10-24 00:13:28,778 - Acquiring data for solomon-islands
+2020-10-24 00:13:29,268 - Acquiring data for somalia
+2020-10-24 00:13:29,721 - Acquiring data for south-africa
+2020-10-24 00:13:30,330 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-24 00:13:30,583 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:13:30,583 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:13:30,786 - Acquiring data for south-korea
+2020-10-24 00:13:31,266 - Acquiring data for south-sudan
+2020-10-24 00:13:31,712 - Acquiring data for spain
+2020-10-24 00:13:32,218 - Acquiring data for sri-lanka
+2020-10-24 00:13:32,723 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-24 00:13:33,191 - Acquiring data for st-kitts-and-nevis
+2020-10-24 00:13:33,661 - Acquiring data for st-lucia
+2020-10-24 00:13:34,174 - Acquiring data for st-maarten
+2020-10-24 00:13:34,610 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-24 00:13:35,058 - Acquiring data for st-pierre-and-miquelon
+2020-10-24 00:13:35,514 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-24 00:13:36,098 - Acquiring data for sudan
+2020-10-24 00:13:36,786 - Acquiring data for suriname
+2020-10-24 00:13:37,266 - Acquiring data for sweden
+2020-10-24 00:13:37,725 - Acquiring data for switzerland
+2020-10-24 00:13:38,214 - Acquiring data for syria
+2020-10-24 00:13:38,666 - Acquiring data for taiwan
+2020-10-24 00:13:39,169 - Acquiring data for tajikistan
+2020-10-24 00:13:39,632 - Acquiring data for tanzania
+2020-10-24 00:13:40,269 - Acquiring data for thailand
+2020-10-24 00:13:40,762 - Acquiring data for timor-leste
+2020-10-24 00:13:41,216 - Acquiring data for togo
+2020-10-24 00:13:41,658 - Acquiring data for tonga
+2020-10-24 00:13:42,129 - Acquiring data for trinidad-and-tobago
+2020-10-24 00:13:42,617 - Acquiring data for tunisia
+2020-10-24 00:13:43,117 - Acquiring data for turkey
+2020-10-24 00:13:43,624 - Acquiring data for turkmenistan
+2020-10-24 00:13:44,096 - Acquiring data for turks-and-caicos-islands
+2020-10-24 00:13:44,574 - Acquiring data for tuvalu
+2020-10-24 00:13:45,026 - Acquiring data for usa
+2020-10-24 00:13:45,527 - Acquiring data for uganda
+2020-10-24 00:13:46,024 - Acquiring data for ukraine
+2020-10-24 00:13:46,524 - Acquiring data for united-arab-emirates
+2020-10-24 00:13:47,014 - Acquiring data for uruguay
+2020-10-24 00:13:47,469 - Acquiring data for uzbekistan
+2020-10-24 00:13:47,936 - Acquiring data for vanuatu
+2020-10-24 00:13:48,410 - Acquiring data for venezuela
+2020-10-24 00:13:48,880 - Acquiring data for vietnam
+2020-10-24 00:13:49,393 - Acquiring data for wallis-and-futuna
+2020-10-24 00:13:49,869 - Acquiring data for western-sahara
+2020-10-24 00:13:50,117 - 'NoneType' object has no attribute 'next_elements'
+2020-10-24 00:13:50,117 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-24 00:13:50,317 - Acquiring data for yemen
+2020-10-24 00:13:50,766 - Acquiring data for zambia
+2020-10-24 00:13:51,225 - Acquiring data for zimbabwe
+2020-10-25 16:42:54,294 - Acquiring data for afghanistan
+2020-10-25 16:42:54,899 - Acquiring data for albania
+2020-10-25 16:42:55,434 - Acquiring data for algeria
+2020-10-25 16:42:55,986 - Acquiring data for andorra
+2020-10-25 16:42:56,290 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:42:56,290 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:42:56,492 - Acquiring data for angola
+2020-10-25 16:42:57,034 - Acquiring data for anguilla
+2020-10-25 16:42:57,489 - Acquiring data for antigua-and-barbuda
+2020-10-25 16:42:58,043 - Acquiring data for argentina
+2020-10-25 16:42:58,642 - Acquiring data for armenia
+2020-10-25 16:42:59,182 - Acquiring data for aruba
+2020-10-25 16:42:59,642 - Acquiring data for australia
+2020-10-25 16:43:00,294 - Acquiring data for austria
+2020-10-25 16:43:00,830 - Acquiring data for azerbaijan
+2020-10-25 16:43:01,381 - Acquiring data for bahamas
+2020-10-25 16:43:02,285 - Acquiring data for bahrain
+2020-10-25 16:43:02,830 - Acquiring data for bangladesh
+2020-10-25 16:43:03,432 - Acquiring data for barbados
+2020-10-25 16:43:03,980 - Acquiring data for belarus
+2020-10-25 16:43:04,493 - Acquiring data for belgium
+2020-10-25 16:43:05,030 - Acquiring data for belize
+2020-10-25 16:43:05,538 - Acquiring data for benin
+2020-10-25 16:43:06,083 - Acquiring data for bermuda
+2020-10-25 16:43:06,544 - Acquiring data for bhutan
+2020-10-25 16:43:06,834 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:43:06,834 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:43:07,038 - Acquiring data for bolivia
+2020-10-25 16:43:07,582 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 16:43:08,033 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 16:43:08,531 - Acquiring data for botswana
+2020-10-25 16:43:09,030 - Acquiring data for brazil
+2020-10-25 16:43:09,535 - Acquiring data for british-antarctic-territory
+2020-10-25 16:43:09,778 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:43:09,778 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:43:09,980 - Acquiring data for british-indian-ocean-territory
+2020-10-25 16:43:10,433 - Acquiring data for british-virgin-islands
+2020-10-25 16:43:10,933 - Acquiring data for brunei
+2020-10-25 16:43:11,443 - Acquiring data for bulgaria
+2020-10-25 16:43:11,980 - Acquiring data for burkina-faso
+2020-10-25 16:43:12,480 - Acquiring data for burundi
+2020-10-25 16:43:13,088 - Acquiring data for cambodia
+2020-10-25 16:43:13,643 - Acquiring data for cameroon
+2020-10-25 16:43:14,161 - Acquiring data for canada
+2020-10-25 16:43:14,651 - Acquiring data for cape-verde
+2020-10-25 16:43:15,114 - Acquiring data for cayman-islands
+2020-10-25 16:43:15,556 - Acquiring data for central-african-republic
+2020-10-25 16:43:16,035 - Acquiring data for chad
+2020-10-25 16:43:16,501 - Acquiring data for chile
+2020-10-25 16:43:16,995 - Acquiring data for china
+2020-10-25 16:43:17,470 - Acquiring data for colombia
+2020-10-25 16:43:17,969 - Acquiring data for comoros
+2020-10-25 16:43:18,411 - Acquiring data for congo
+2020-10-25 16:43:18,866 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 16:43:19,287 - Acquiring data for costa-rica
+2020-10-25 16:43:19,762 - Acquiring data for cote-d-ivoire
+2020-10-25 16:43:20,226 - Acquiring data for croatia
+2020-10-25 16:43:20,696 - Acquiring data for cuba
+2020-10-25 16:43:21,190 - Acquiring data for curacao
+2020-10-25 16:43:21,640 - Acquiring data for cyprus
+2020-10-25 16:43:22,126 - Acquiring data for czech-republic
+2020-10-25 16:43:22,589 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 16:43:23,237 - Acquiring data for denmark
+2020-10-25 16:43:23,732 - Acquiring data for djibouti
+2020-10-25 16:43:24,209 - Acquiring data for dominica
+2020-10-25 16:43:24,666 - Acquiring data for dominican-republic
+2020-10-25 16:43:25,130 - Acquiring data for ecuador
+2020-10-25 16:43:25,619 - Acquiring data for egypt
+2020-10-25 16:43:26,173 - Acquiring data for el-salvador
+2020-10-25 16:43:26,639 - Acquiring data for equatorial-guinea
+2020-10-25 16:43:27,111 - Acquiring data for eritrea
+2020-10-25 16:43:27,699 - Acquiring data for estonia
+2020-10-25 16:43:28,356 - Acquiring data for eswatini
+2020-10-25 16:43:28,873 - Acquiring data for ethiopia
+2020-10-25 16:43:29,501 - Acquiring data for falkland-islands
+2020-10-25 16:43:29,976 - Acquiring data for fiji
+2020-10-25 16:43:30,456 - Acquiring data for finland
+2020-10-25 16:43:30,977 - Acquiring data for france
+2020-10-25 16:43:31,490 - Acquiring data for french-guiana
+2020-10-25 16:43:33,384 - Acquiring data for french-polynesia
+2020-10-25 16:43:33,882 - Acquiring data for gabon
+2020-10-25 16:43:38,777 - Acquiring data for the-gambia
+2020-10-25 16:43:39,259 - Acquiring data for georgia
+2020-10-25 16:43:42,099 - Acquiring data for germany
+2020-10-25 16:43:44,843 - Acquiring data for ghana
+2020-10-25 16:43:48,335 - Acquiring data for gibraltar
+2020-10-25 16:43:48,795 - Acquiring data for greece
+2020-10-25 16:43:49,288 - Acquiring data for grenada
+2020-10-25 16:43:49,744 - Acquiring data for guadeloupe
+2020-10-25 16:43:50,181 - Acquiring data for guatemala
+2020-10-25 16:43:50,648 - Acquiring data for guinea
+2020-10-25 16:43:51,104 - Acquiring data for guinea-bissau
+2020-10-25 16:43:51,553 - Acquiring data for guyana
+2020-10-25 16:43:52,062 - Acquiring data for haiti
+2020-10-25 16:43:52,564 - Acquiring data for honduras
+2020-10-25 16:43:53,042 - Acquiring data for hong-kong
+2020-10-25 16:43:53,660 - Acquiring data for hungary
+2020-10-25 16:43:54,148 - Acquiring data for iceland
+2020-10-25 16:43:54,700 - Acquiring data for india
+2020-10-25 16:43:55,213 - Acquiring data for indonesia
+2020-10-25 16:43:55,757 - Acquiring data for iran
+2020-10-25 16:43:56,260 - Acquiring data for iraq
+2020-10-25 16:43:56,751 - Acquiring data for ireland
+2020-10-25 16:43:57,207 - Acquiring data for israel
+2020-10-25 16:43:57,758 - Acquiring data for italy
+2020-10-25 16:43:58,252 - Acquiring data for jamaica
+2020-10-25 16:43:58,714 - Acquiring data for japan
+2020-10-25 16:43:59,205 - Acquiring data for jordan
+2020-10-25 16:43:59,674 - Acquiring data for kazakhstan
+2020-10-25 16:44:00,128 - Acquiring data for kenya
+2020-10-25 16:44:00,625 - Acquiring data for kiribati
+2020-10-25 16:44:01,071 - Acquiring data for kosovo
+2020-10-25 16:44:01,531 - Acquiring data for kuwait
+2020-10-25 16:44:01,979 - Acquiring data for kyrgyzstan
+2020-10-25 16:44:02,447 - Acquiring data for laos
+2020-10-25 16:44:02,946 - Acquiring data for latvia
+2020-10-25 16:44:03,460 - Acquiring data for lebanon
+2020-10-25 16:44:03,965 - Acquiring data for lesotho
+2020-10-25 16:44:04,432 - Acquiring data for liberia
+2020-10-25 16:44:04,922 - Acquiring data for libya
+2020-10-25 16:44:05,200 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:44:05,200 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:44:05,404 - Acquiring data for liechtenstein
+2020-10-25 16:44:05,848 - Acquiring data for lithuania
+2020-10-25 16:44:06,349 - Acquiring data for luxembourg
+2020-10-25 16:44:06,690 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:44:06,690 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:44:06,893 - Acquiring data for macao
+2020-10-25 16:44:07,827 - Acquiring data for madagascar
+2020-10-25 16:44:08,296 - Acquiring data for malawi
+2020-10-25 16:44:08,752 - Acquiring data for malaysia
+2020-10-25 16:44:09,228 - Acquiring data for maldives
+2020-10-25 16:44:09,698 - Acquiring data for mali
+2020-10-25 16:44:10,177 - Acquiring data for malta
+2020-10-25 16:44:10,648 - Acquiring data for marshall-islands
+2020-10-25 16:44:11,078 - Acquiring data for martinique
+2020-10-25 16:44:11,553 - Acquiring data for mauritania
+2020-10-25 16:44:12,008 - Acquiring data for mauritius
+2020-10-25 16:44:12,490 - Acquiring data for mayotte
+2020-10-25 16:44:12,929 - Acquiring data for mexico
+2020-10-25 16:44:13,414 - Acquiring data for micronesia
+2020-10-25 16:44:13,850 - Acquiring data for moldova
+2020-10-25 16:44:14,298 - Acquiring data for monaco
+2020-10-25 16:44:14,761 - Acquiring data for mongolia
+2020-10-25 16:44:15,243 - Acquiring data for montenegro
+2020-10-25 16:44:15,710 - Acquiring data for montserrat
+2020-10-25 16:44:16,169 - Acquiring data for morocco
+2020-10-25 16:44:16,638 - Acquiring data for mozambique
+2020-10-25 16:44:17,112 - Acquiring data for myanmar
+2020-10-25 16:44:17,623 - Acquiring data for namibia
+2020-10-25 16:44:18,115 - Acquiring data for nauru
+2020-10-25 16:44:18,552 - Acquiring data for nepal
+2020-10-25 16:44:19,030 - Acquiring data for netherlands
+2020-10-25 16:44:19,538 - Acquiring data for new-caledonia
+2020-10-25 16:44:19,982 - Acquiring data for new-zealand
+2020-10-25 16:44:20,458 - Acquiring data for nicaragua
+2020-10-25 16:44:20,915 - Acquiring data for niger
+2020-10-25 16:44:21,372 - Acquiring data for nigeria
+2020-10-25 16:44:21,877 - Acquiring data for north-korea
+2020-10-25 16:44:22,349 - Acquiring data for north-macedonia
+2020-10-25 16:44:22,919 - Acquiring data for norway
+2020-10-25 16:44:23,384 - Acquiring data for oman
+2020-10-25 16:44:23,866 - Acquiring data for pakistan
+2020-10-25 16:44:24,355 - Acquiring data for palau
+2020-10-25 16:44:24,805 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 16:44:25,312 - Acquiring data for panama
+2020-10-25 16:44:25,783 - Acquiring data for papua-new-guinea
+2020-10-25 16:44:26,247 - Acquiring data for paraguay
+2020-10-25 16:44:26,716 - Acquiring data for peru
+2020-10-25 16:44:27,193 - Acquiring data for philippines
+2020-10-25 16:44:27,694 - Acquiring data for pitcairn-island
+2020-10-25 16:44:28,154 - Acquiring data for poland
+2020-10-25 16:44:28,634 - Acquiring data for portugal
+2020-10-25 16:44:29,132 - Acquiring data for qatar
+2020-10-25 16:44:29,636 - Acquiring data for reunion
+2020-10-25 16:44:30,094 - Acquiring data for romania
+2020-10-25 16:44:30,548 - Acquiring data for russia
+2020-10-25 16:44:31,032 - Acquiring data for rwanda
+2020-10-25 16:44:31,500 - Acquiring data for samoa
+2020-10-25 16:44:31,955 - Acquiring data for san-marino
+2020-10-25 16:44:32,212 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:44:32,212 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:44:32,417 - Acquiring data for sao-tome-and-principe
+2020-10-25 16:44:32,873 - Acquiring data for saudi-arabia
+2020-10-25 16:44:33,367 - Acquiring data for senegal
+2020-10-25 16:44:33,831 - Acquiring data for serbia
+2020-10-25 16:44:34,301 - Acquiring data for seychelles
+2020-10-25 16:44:34,807 - Acquiring data for sierra-leone
+2020-10-25 16:44:35,270 - Acquiring data for singapore
+2020-10-25 16:44:35,753 - Acquiring data for slovakia
+2020-10-25 16:44:36,231 - Acquiring data for slovenia
+2020-10-25 16:44:36,807 - Acquiring data for solomon-islands
+2020-10-25 16:44:37,278 - Acquiring data for somalia
+2020-10-25 16:44:37,727 - Acquiring data for south-africa
+2020-10-25 16:44:38,217 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 16:44:38,866 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:44:38,866 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:44:39,067 - Acquiring data for south-korea
+2020-10-25 16:44:39,536 - Acquiring data for south-sudan
+2020-10-25 16:44:39,994 - Acquiring data for spain
+2020-10-25 16:44:40,503 - Acquiring data for sri-lanka
+2020-10-25 16:44:40,989 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 16:44:41,468 - Acquiring data for st-kitts-and-nevis
+2020-10-25 16:44:41,929 - Acquiring data for st-lucia
+2020-10-25 16:44:42,381 - Acquiring data for st-maarten
+2020-10-25 16:44:42,857 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 16:44:43,302 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 16:44:43,740 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 16:44:44,192 - Acquiring data for sudan
+2020-10-25 16:44:44,665 - Acquiring data for suriname
+2020-10-25 16:44:45,149 - Acquiring data for sweden
+2020-10-25 16:44:45,663 - Acquiring data for switzerland
+2020-10-25 16:44:46,124 - Acquiring data for syria
+2020-10-25 16:44:46,571 - Acquiring data for taiwan
+2020-10-25 16:44:47,076 - Acquiring data for tajikistan
+2020-10-25 16:44:47,554 - Acquiring data for tanzania
+2020-10-25 16:44:48,015 - Acquiring data for thailand
+2020-10-25 16:44:48,508 - Acquiring data for timor-leste
+2020-10-25 16:44:48,972 - Acquiring data for togo
+2020-10-25 16:44:49,420 - Acquiring data for tonga
+2020-10-25 16:44:49,883 - Acquiring data for trinidad-and-tobago
+2020-10-25 16:44:50,348 - Acquiring data for tunisia
+2020-10-25 16:44:50,862 - Acquiring data for turkey
+2020-10-25 16:44:51,358 - Acquiring data for turkmenistan
+2020-10-25 16:44:51,831 - Acquiring data for turks-and-caicos-islands
+2020-10-25 16:44:52,330 - Acquiring data for tuvalu
+2020-10-25 16:44:52,781 - Acquiring data for usa
+2020-10-25 16:44:53,295 - Acquiring data for uganda
+2020-10-25 16:44:53,759 - Acquiring data for ukraine
+2020-10-25 16:44:54,258 - Acquiring data for united-arab-emirates
+2020-10-25 16:44:54,756 - Acquiring data for uruguay
+2020-10-25 16:44:55,268 - Acquiring data for uzbekistan
+2020-10-25 16:44:55,741 - Acquiring data for vanuatu
+2020-10-25 16:44:56,199 - Acquiring data for venezuela
+2020-10-25 16:44:56,672 - Acquiring data for vietnam
+2020-10-25 16:44:57,154 - Acquiring data for wallis-and-futuna
+2020-10-25 16:44:57,601 - Acquiring data for western-sahara
+2020-10-25 16:44:57,831 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:44:57,832 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:44:58,034 - Acquiring data for yemen
+2020-10-25 16:44:58,488 - Acquiring data for zambia
+2020-10-25 16:44:58,984 - Acquiring data for zimbabwe
+2020-10-25 16:46:21,935 - Acquiring data for afghanistan
+2020-10-25 16:46:22,430 - Acquiring data for albania
+2020-10-25 16:46:22,895 - Acquiring data for algeria
+2020-10-25 16:46:23,354 - Acquiring data for andorra
+2020-10-25 16:46:23,591 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:46:23,591 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:46:23,794 - Acquiring data for angola
+2020-10-25 16:46:24,260 - Acquiring data for anguilla
+2020-10-25 16:46:24,708 - Acquiring data for antigua-and-barbuda
+2020-10-25 16:46:25,167 - Acquiring data for argentina
+2020-10-25 16:46:25,652 - Acquiring data for armenia
+2020-10-25 16:46:26,117 - Acquiring data for aruba
+2020-10-25 16:46:26,561 - Acquiring data for australia
+2020-10-25 16:46:27,075 - Acquiring data for austria
+2020-10-25 16:46:27,539 - Acquiring data for azerbaijan
+2020-10-25 16:46:28,014 - Acquiring data for bahamas
+2020-10-25 16:46:28,479 - Acquiring data for bahrain
+2020-10-25 16:46:28,939 - Acquiring data for bangladesh
+2020-10-25 16:46:29,429 - Acquiring data for barbados
+2020-10-25 16:46:29,889 - Acquiring data for belarus
+2020-10-25 16:46:30,339 - Acquiring data for belgium
+2020-10-25 16:46:30,815 - Acquiring data for belize
+2020-10-25 16:46:31,266 - Acquiring data for benin
+2020-10-25 16:46:31,720 - Acquiring data for bermuda
+2020-10-25 16:46:32,176 - Acquiring data for bhutan
+2020-10-25 16:46:32,421 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:46:32,421 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:46:32,627 - Acquiring data for bolivia
+2020-10-25 16:46:33,085 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 16:46:33,527 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 16:46:33,995 - Acquiring data for botswana
+2020-10-25 16:46:34,447 - Acquiring data for brazil
+2020-10-25 16:46:34,910 - Acquiring data for british-antarctic-territory
+2020-10-25 16:46:35,137 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:46:35,137 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:46:35,338 - Acquiring data for british-indian-ocean-territory
+2020-10-25 16:46:37,768 - Acquiring data for british-virgin-islands
+2020-10-25 16:46:38,229 - Acquiring data for brunei
+2020-10-25 16:46:40,467 - Acquiring data for bulgaria
+2020-10-25 16:46:40,943 - Acquiring data for burkina-faso
+2020-10-25 16:46:41,552 - Acquiring data for burundi
+2020-10-25 16:46:42,000 - Acquiring data for cambodia
+2020-10-25 16:46:42,485 - Acquiring data for cameroon
+2020-10-25 16:46:43,002 - Acquiring data for canada
+2020-10-25 16:46:43,463 - Acquiring data for cape-verde
+2020-10-25 16:46:43,926 - Acquiring data for cayman-islands
+2020-10-25 16:46:44,374 - Acquiring data for central-african-republic
+2020-10-25 16:46:44,823 - Acquiring data for chad
+2020-10-25 16:46:45,271 - Acquiring data for chile
+2020-10-25 16:46:45,737 - Acquiring data for china
+2020-10-25 16:46:46,221 - Acquiring data for colombia
+2020-10-25 16:46:46,697 - Acquiring data for comoros
+2020-10-25 16:46:47,142 - Acquiring data for congo
+2020-10-25 16:46:47,588 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 16:46:48,027 - Acquiring data for costa-rica
+2020-10-25 16:46:50,027 - Acquiring data for cote-d-ivoire
+2020-10-25 16:46:50,486 - Acquiring data for croatia
+2020-10-25 16:46:50,999 - Acquiring data for cuba
+2020-10-25 16:46:51,494 - Acquiring data for curacao
+2020-10-25 16:46:51,941 - Acquiring data for cyprus
+2020-10-25 16:46:52,411 - Acquiring data for czech-republic
+2020-10-25 16:46:52,885 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 16:46:53,360 - Acquiring data for denmark
+2020-10-25 16:46:53,842 - Acquiring data for djibouti
+2020-10-25 16:46:54,292 - Acquiring data for dominica
+2020-10-25 16:46:54,741 - Acquiring data for dominican-republic
+2020-10-25 16:46:55,210 - Acquiring data for ecuador
+2020-10-25 16:46:55,732 - Acquiring data for egypt
+2020-10-25 16:46:56,208 - Acquiring data for el-salvador
+2020-10-25 16:46:56,679 - Acquiring data for equatorial-guinea
+2020-10-25 16:46:57,132 - Acquiring data for eritrea
+2020-10-25 16:46:57,588 - Acquiring data for estonia
+2020-10-25 16:46:58,037 - Acquiring data for eswatini
+2020-10-25 16:46:58,485 - Acquiring data for ethiopia
+2020-10-25 16:46:58,969 - Acquiring data for falkland-islands
+2020-10-25 16:46:59,412 - Acquiring data for fiji
+2020-10-25 16:46:59,860 - Acquiring data for finland
+2020-10-25 16:47:00,312 - Acquiring data for france
+2020-10-25 16:47:00,805 - Acquiring data for french-guiana
+2020-10-25 16:47:01,246 - Acquiring data for french-polynesia
+2020-10-25 16:47:02,263 - Acquiring data for gabon
+2020-10-25 16:47:02,866 - Acquiring data for the-gambia
+2020-10-25 16:47:03,325 - Acquiring data for georgia
+2020-10-25 16:47:03,819 - Acquiring data for germany
+2020-10-25 16:47:04,285 - Acquiring data for ghana
+2020-10-25 16:47:04,758 - Acquiring data for gibraltar
+2020-10-25 16:47:05,214 - Acquiring data for greece
+2020-10-25 16:47:05,718 - Acquiring data for grenada
+2020-10-25 16:47:06,174 - Acquiring data for guadeloupe
+2020-10-25 16:47:06,620 - Acquiring data for guatemala
+2020-10-25 16:47:07,097 - Acquiring data for guinea
+2020-10-25 16:47:07,552 - Acquiring data for guinea-bissau
+2020-10-25 16:47:08,004 - Acquiring data for guyana
+2020-10-25 16:47:08,465 - Acquiring data for haiti
+2020-10-25 16:47:08,927 - Acquiring data for honduras
+2020-10-25 16:47:09,390 - Acquiring data for hong-kong
+2020-10-25 16:47:09,870 - Acquiring data for hungary
+2020-10-25 16:47:10,350 - Acquiring data for iceland
+2020-10-25 16:47:10,810 - Acquiring data for india
+2020-10-25 16:47:11,303 - Acquiring data for indonesia
+2020-10-25 16:47:11,809 - Acquiring data for iran
+2020-10-25 16:47:12,273 - Acquiring data for iraq
+2020-10-25 16:47:12,853 - Acquiring data for ireland
+2020-10-25 16:47:13,301 - Acquiring data for israel
+2020-10-25 16:47:13,787 - Acquiring data for italy
+2020-10-25 16:47:14,384 - Acquiring data for jamaica
+2020-10-25 16:47:15,120 - Acquiring data for japan
+2020-10-25 16:47:15,620 - Acquiring data for jordan
+2020-10-25 16:47:16,091 - Acquiring data for kazakhstan
+2020-10-25 16:47:16,542 - Acquiring data for kenya
+2020-10-25 16:47:17,064 - Acquiring data for kiribati
+2020-10-25 16:47:17,515 - Acquiring data for kosovo
+2020-10-25 16:47:17,987 - Acquiring data for kuwait
+2020-10-25 16:47:18,438 - Acquiring data for kyrgyzstan
+2020-10-25 16:47:18,899 - Acquiring data for laos
+2020-10-25 16:47:19,356 - Acquiring data for latvia
+2020-10-25 16:47:19,810 - Acquiring data for lebanon
+2020-10-25 16:47:20,286 - Acquiring data for lesotho
+2020-10-25 16:47:20,731 - Acquiring data for liberia
+2020-10-25 16:47:21,237 - Acquiring data for libya
+2020-10-25 16:47:21,483 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:47:21,483 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:47:21,688 - Acquiring data for liechtenstein
+2020-10-25 16:47:22,142 - Acquiring data for lithuania
+2020-10-25 16:47:22,640 - Acquiring data for luxembourg
+2020-10-25 16:47:22,898 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:47:22,898 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:47:23,101 - Acquiring data for macao
+2020-10-25 16:47:23,581 - Acquiring data for madagascar
+2020-10-25 16:47:24,038 - Acquiring data for malawi
+2020-10-25 16:47:26,132 - Acquiring data for malaysia
+2020-10-25 16:47:26,597 - Acquiring data for maldives
+2020-10-25 16:47:27,062 - Acquiring data for mali
+2020-10-25 16:47:27,513 - Acquiring data for malta
+2020-10-25 16:47:27,980 - Acquiring data for marshall-islands
+2020-10-25 16:47:28,419 - Acquiring data for martinique
+2020-10-25 16:47:28,869 - Acquiring data for mauritania
+2020-10-25 16:47:29,312 - Acquiring data for mauritius
+2020-10-25 16:47:29,775 - Acquiring data for mayotte
+2020-10-25 16:47:30,216 - Acquiring data for mexico
+2020-10-25 16:47:30,690 - Acquiring data for micronesia
+2020-10-25 16:47:31,131 - Acquiring data for moldova
+2020-10-25 16:47:31,592 - Acquiring data for monaco
+2020-10-25 16:47:32,038 - Acquiring data for mongolia
+2020-10-25 16:47:32,565 - Acquiring data for montenegro
+2020-10-25 16:47:33,047 - Acquiring data for montserrat
+2020-10-25 16:47:33,637 - Acquiring data for morocco
+2020-10-25 16:47:34,547 - Acquiring data for mozambique
+2020-10-25 16:47:35,114 - Acquiring data for myanmar
+2020-10-25 16:47:36,469 - Acquiring data for namibia
+2020-10-25 16:47:40,393 - Acquiring data for nauru
+2020-10-25 16:47:40,878 - Acquiring data for nepal
+2020-10-25 16:47:41,417 - Acquiring data for netherlands
+2020-10-25 16:47:41,881 - Acquiring data for new-caledonia
+2020-10-25 16:47:42,335 - Acquiring data for new-zealand
+2020-10-25 16:47:42,833 - Acquiring data for nicaragua
+2020-10-25 16:47:43,493 - Acquiring data for niger
+2020-10-25 16:47:45,865 - Acquiring data for nigeria
+2020-10-25 16:47:46,684 - Acquiring data for north-korea
+2020-10-25 16:47:47,881 - Acquiring data for north-macedonia
+2020-10-25 16:47:49,112 - Acquiring data for norway
+2020-10-25 16:47:50,504 - Acquiring data for oman
+2020-10-25 16:47:51,602 - Acquiring data for pakistan
+2020-10-25 16:47:53,266 - Acquiring data for palau
+2020-10-25 16:47:54,824 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 16:47:55,489 - Acquiring data for panama
+2020-10-25 16:47:56,373 - Acquiring data for papua-new-guinea
+2020-10-25 16:47:57,058 - Acquiring data for paraguay
+2020-10-25 16:47:57,668 - Acquiring data for peru
+2020-10-25 16:47:58,336 - Acquiring data for philippines
+2020-10-25 16:47:59,033 - Acquiring data for pitcairn-island
+2020-10-25 16:47:59,604 - Acquiring data for poland
+2020-10-25 16:48:00,331 - Acquiring data for portugal
+2020-10-25 16:48:01,144 - Acquiring data for qatar
+2020-10-25 16:48:01,764 - Acquiring data for reunion
+2020-10-25 16:48:02,347 - Acquiring data for romania
+2020-10-25 16:48:03,018 - Acquiring data for russia
+2020-10-25 16:48:03,716 - Acquiring data for rwanda
+2020-10-25 16:48:04,693 - Acquiring data for samoa
+2020-10-25 16:48:05,695 - Acquiring data for san-marino
+2020-10-25 16:48:06,107 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:48:06,107 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:48:06,311 - Acquiring data for sao-tome-and-principe
+2020-10-25 16:48:06,911 - Acquiring data for saudi-arabia
+2020-10-25 16:48:07,620 - Acquiring data for senegal
+2020-10-25 16:48:08,267 - Acquiring data for serbia
+2020-10-25 16:48:09,333 - Acquiring data for seychelles
+2020-10-25 16:48:09,788 - Acquiring data for sierra-leone
+2020-10-25 16:48:10,250 - Acquiring data for singapore
+2020-10-25 16:48:10,753 - Acquiring data for slovakia
+2020-10-25 16:48:11,223 - Acquiring data for slovenia
+2020-10-25 16:48:11,690 - Acquiring data for solomon-islands
+2020-10-25 16:48:12,152 - Acquiring data for somalia
+2020-10-25 16:48:12,624 - Acquiring data for south-africa
+2020-10-25 16:48:13,096 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 16:48:13,342 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:48:13,342 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:48:13,547 - Acquiring data for south-korea
+2020-10-25 16:48:14,017 - Acquiring data for south-sudan
+2020-10-25 16:48:14,474 - Acquiring data for spain
+2020-10-25 16:48:14,965 - Acquiring data for sri-lanka
+2020-10-25 16:48:15,435 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 16:48:15,900 - Acquiring data for st-kitts-and-nevis
+2020-10-25 16:48:16,350 - Acquiring data for st-lucia
+2020-10-25 16:48:16,801 - Acquiring data for st-maarten
+2020-10-25 16:48:17,247 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 16:48:17,686 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 16:48:18,128 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 16:48:18,666 - Acquiring data for sudan
+2020-10-25 16:48:19,140 - Acquiring data for suriname
+2020-10-25 16:48:19,586 - Acquiring data for sweden
+2020-10-25 16:48:20,046 - Acquiring data for switzerland
+2020-10-25 16:48:20,543 - Acquiring data for syria
+2020-10-25 16:48:20,980 - Acquiring data for taiwan
+2020-10-25 16:48:21,444 - Acquiring data for tajikistan
+2020-10-25 16:48:22,166 - Acquiring data for tanzania
+2020-10-25 16:48:22,654 - Acquiring data for thailand
+2020-10-25 16:48:23,167 - Acquiring data for timor-leste
+2020-10-25 16:48:23,616 - Acquiring data for togo
+2020-10-25 16:48:24,068 - Acquiring data for tonga
+2020-10-25 16:48:24,781 - Acquiring data for trinidad-and-tobago
+2020-10-25 16:48:25,240 - Acquiring data for tunisia
+2020-10-25 16:48:25,702 - Acquiring data for turkey
+2020-10-25 16:48:26,188 - Acquiring data for turkmenistan
+2020-10-25 16:48:26,638 - Acquiring data for turks-and-caicos-islands
+2020-10-25 16:48:27,096 - Acquiring data for tuvalu
+2020-10-25 16:48:27,549 - Acquiring data for usa
+2020-10-25 16:48:28,029 - Acquiring data for uganda
+2020-10-25 16:48:28,506 - Acquiring data for ukraine
+2020-10-25 16:48:28,998 - Acquiring data for united-arab-emirates
+2020-10-25 16:48:29,486 - Acquiring data for uruguay
+2020-10-25 16:48:29,947 - Acquiring data for uzbekistan
+2020-10-25 16:48:30,449 - Acquiring data for vanuatu
+2020-10-25 16:48:30,962 - Acquiring data for venezuela
+2020-10-25 16:48:31,435 - Acquiring data for vietnam
+2020-10-25 16:48:31,911 - Acquiring data for wallis-and-futuna
+2020-10-25 16:48:32,346 - Acquiring data for western-sahara
+2020-10-25 16:48:32,582 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 16:48:32,582 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 16:48:32,785 - Acquiring data for yemen
+2020-10-25 16:48:33,241 - Acquiring data for zambia
+2020-10-25 16:48:33,694 - Acquiring data for zimbabwe
+2020-10-25 16:48:35,132 - Model was constructed with shape (None, 100) for input Tensor("embedding_input:0", shape=(None, 100), dtype=float32), but it was called on an input with incompatible shape (None, 200).
+2020-10-25 17:07:26,443 - Acquiring data for afghanistan
+2020-10-25 17:07:26,988 - Acquiring data for albania
+2020-10-25 17:07:27,465 - Acquiring data for algeria
+2020-10-25 17:07:27,951 - Acquiring data for andorra
+2020-10-25 17:07:28,204 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:07:28,204 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:07:28,408 - Acquiring data for angola
+2020-10-25 17:07:28,864 - Acquiring data for anguilla
+2020-10-25 17:07:29,321 - Acquiring data for antigua-and-barbuda
+2020-10-25 17:07:29,790 - Acquiring data for argentina
+2020-10-25 17:07:30,266 - Acquiring data for armenia
+2020-10-25 17:07:30,716 - Acquiring data for aruba
+2020-10-25 17:07:31,157 - Acquiring data for australia
+2020-10-25 17:07:31,669 - Acquiring data for austria
+2020-10-25 17:07:32,140 - Acquiring data for azerbaijan
+2020-10-25 17:07:32,613 - Acquiring data for bahamas
+2020-10-25 17:07:33,087 - Acquiring data for bahrain
+2020-10-25 17:07:33,562 - Acquiring data for bangladesh
+2020-10-25 17:07:34,050 - Acquiring data for barbados
+2020-10-25 17:07:34,522 - Acquiring data for belarus
+2020-10-25 17:07:34,978 - Acquiring data for belgium
+2020-10-25 17:07:35,452 - Acquiring data for belize
+2020-10-25 17:07:35,908 - Acquiring data for benin
+2020-10-25 17:07:36,398 - Acquiring data for bermuda
+2020-10-25 17:07:36,908 - Acquiring data for bhutan
+2020-10-25 17:07:37,227 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:07:37,227 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:07:37,429 - Acquiring data for bolivia
+2020-10-25 17:07:37,893 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 17:07:38,324 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 17:07:38,792 - Acquiring data for botswana
+2020-10-25 17:07:39,244 - Acquiring data for brazil
+2020-10-25 17:07:39,728 - Acquiring data for british-antarctic-territory
+2020-10-25 17:07:39,957 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:07:39,957 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:07:40,161 - Acquiring data for british-indian-ocean-territory
+2020-10-25 17:07:40,592 - Acquiring data for british-virgin-islands
+2020-10-25 17:07:41,064 - Acquiring data for brunei
+2020-10-25 17:07:41,516 - Acquiring data for bulgaria
+2020-10-25 17:07:41,983 - Acquiring data for burkina-faso
+2020-10-25 17:07:42,532 - Acquiring data for burundi
+2020-10-25 17:07:42,994 - Acquiring data for cambodia
+2020-10-25 17:07:43,504 - Acquiring data for cameroon
+2020-10-25 17:07:43,989 - Acquiring data for canada
+2020-10-25 17:07:44,512 - Acquiring data for cape-verde
+2020-10-25 17:07:44,972 - Acquiring data for cayman-islands
+2020-10-25 17:07:45,420 - Acquiring data for central-african-republic
+2020-10-25 17:07:45,898 - Acquiring data for chad
+2020-10-25 17:07:46,427 - Acquiring data for chile
+2020-10-25 17:07:46,903 - Acquiring data for china
+2020-10-25 17:07:47,386 - Acquiring data for colombia
+2020-10-25 17:07:47,893 - Acquiring data for comoros
+2020-10-25 17:07:48,466 - Acquiring data for congo
+2020-10-25 17:07:48,974 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 17:07:49,848 - Acquiring data for costa-rica
+2020-10-25 17:07:50,383 - Acquiring data for cote-d-ivoire
+2020-10-25 17:07:50,885 - Acquiring data for croatia
+2020-10-25 17:07:51,347 - Acquiring data for cuba
+2020-10-25 17:07:51,826 - Acquiring data for curacao
+2020-10-25 17:07:52,394 - Acquiring data for cyprus
+2020-10-25 17:07:52,864 - Acquiring data for czech-republic
+2020-10-25 17:07:53,347 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 17:07:53,821 - Acquiring data for denmark
+2020-10-25 17:07:54,341 - Acquiring data for djibouti
+2020-10-25 17:07:54,844 - Acquiring data for dominica
+2020-10-25 17:07:55,300 - Acquiring data for dominican-republic
+2020-10-25 17:07:55,775 - Acquiring data for ecuador
+2020-10-25 17:07:56,339 - Acquiring data for egypt
+2020-10-25 17:07:56,826 - Acquiring data for el-salvador
+2020-10-25 17:07:57,369 - Acquiring data for equatorial-guinea
+2020-10-25 17:07:59,058 - Acquiring data for eritrea
+2020-10-25 17:07:59,543 - Acquiring data for estonia
+2020-10-25 17:08:00,212 - Acquiring data for eswatini
+2020-10-25 17:08:00,670 - Acquiring data for ethiopia
+2020-10-25 17:08:01,164 - Acquiring data for falkland-islands
+2020-10-25 17:08:01,612 - Acquiring data for fiji
+2020-10-25 17:08:02,084 - Acquiring data for finland
+2020-10-25 17:08:02,803 - Acquiring data for france
+2020-10-25 17:08:03,335 - Acquiring data for french-guiana
+2020-10-25 17:08:04,309 - Acquiring data for french-polynesia
+2020-10-25 17:08:04,745 - Acquiring data for gabon
+2020-10-25 17:08:05,210 - Acquiring data for the-gambia
+2020-10-25 17:08:05,810 - Acquiring data for georgia
+2020-10-25 17:08:08,270 - Acquiring data for germany
+2020-10-25 17:08:08,735 - Acquiring data for ghana
+2020-10-25 17:08:09,250 - Acquiring data for gibraltar
+2020-10-25 17:08:09,695 - Acquiring data for greece
+2020-10-25 17:08:10,246 - Acquiring data for grenada
+2020-10-25 17:08:10,715 - Acquiring data for guadeloupe
+2020-10-25 17:08:11,163 - Acquiring data for guatemala
+2020-10-25 17:08:11,646 - Acquiring data for guinea
+2020-10-25 17:08:12,103 - Acquiring data for guinea-bissau
+2020-10-25 17:08:12,555 - Acquiring data for guyana
+2020-10-25 17:08:13,007 - Acquiring data for haiti
+2020-10-25 17:08:13,460 - Acquiring data for honduras
+2020-10-25 17:08:13,926 - Acquiring data for hong-kong
+2020-10-25 17:08:14,407 - Acquiring data for hungary
+2020-10-25 17:08:14,884 - Acquiring data for iceland
+2020-10-25 17:08:15,354 - Acquiring data for india
+2020-10-25 17:08:15,877 - Acquiring data for indonesia
+2020-10-25 17:08:16,393 - Acquiring data for iran
+2020-10-25 17:08:16,855 - Acquiring data for iraq
+2020-10-25 17:08:17,319 - Acquiring data for ireland
+2020-10-25 17:08:17,769 - Acquiring data for israel
+2020-10-25 17:08:18,300 - Acquiring data for italy
+2020-10-25 17:08:18,796 - Acquiring data for jamaica
+2020-10-25 17:08:19,263 - Acquiring data for japan
+2020-10-25 17:08:19,742 - Acquiring data for jordan
+2020-10-25 17:08:20,218 - Acquiring data for kazakhstan
+2020-10-25 17:08:20,673 - Acquiring data for kenya
+2020-10-25 17:08:21,160 - Acquiring data for kiribati
+2020-10-25 17:08:21,604 - Acquiring data for kosovo
+2020-10-25 17:08:22,058 - Acquiring data for kuwait
+2020-10-25 17:08:22,529 - Acquiring data for kyrgyzstan
+2020-10-25 17:08:22,996 - Acquiring data for laos
+2020-10-25 17:08:23,458 - Acquiring data for latvia
+2020-10-25 17:08:23,918 - Acquiring data for lebanon
+2020-10-25 17:08:24,416 - Acquiring data for lesotho
+2020-10-25 17:08:24,860 - Acquiring data for liberia
+2020-10-25 17:08:25,328 - Acquiring data for libya
+2020-10-25 17:08:25,584 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:08:25,585 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:08:25,790 - Acquiring data for liechtenstein
+2020-10-25 17:08:26,264 - Acquiring data for lithuania
+2020-10-25 17:08:26,734 - Acquiring data for luxembourg
+2020-10-25 17:08:26,987 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:08:26,987 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:08:27,189 - Acquiring data for macao
+2020-10-25 17:08:27,639 - Acquiring data for madagascar
+2020-10-25 17:08:28,106 - Acquiring data for malawi
+2020-10-25 17:08:28,595 - Acquiring data for malaysia
+2020-10-25 17:08:29,094 - Acquiring data for maldives
+2020-10-25 17:08:29,549 - Acquiring data for mali
+2020-10-25 17:08:30,022 - Acquiring data for malta
+2020-10-25 17:08:30,522 - Acquiring data for marshall-islands
+2020-10-25 17:08:30,993 - Acquiring data for martinique
+2020-10-25 17:08:31,442 - Acquiring data for mauritania
+2020-10-25 17:08:31,929 - Acquiring data for mauritius
+2020-10-25 17:08:32,392 - Acquiring data for mayotte
+2020-10-25 17:08:32,840 - Acquiring data for mexico
+2020-10-25 17:08:33,305 - Acquiring data for micronesia
+2020-10-25 17:08:33,749 - Acquiring data for moldova
+2020-10-25 17:08:34,214 - Acquiring data for monaco
+2020-10-25 17:08:34,651 - Acquiring data for mongolia
+2020-10-25 17:08:35,122 - Acquiring data for montenegro
+2020-10-25 17:08:35,634 - Acquiring data for montserrat
+2020-10-25 17:08:36,189 - Acquiring data for morocco
+2020-10-25 17:08:36,691 - Acquiring data for mozambique
+2020-10-25 17:08:37,243 - Acquiring data for myanmar
+2020-10-25 17:08:37,737 - Acquiring data for namibia
+2020-10-25 17:08:38,198 - Acquiring data for nauru
+2020-10-25 17:08:40,749 - Acquiring data for nepal
+2020-10-25 17:08:41,239 - Acquiring data for netherlands
+2020-10-25 17:08:41,726 - Acquiring data for new-caledonia
+2020-10-25 17:08:43,856 - Acquiring data for new-zealand
+2020-10-25 17:08:44,326 - Acquiring data for nicaragua
+2020-10-25 17:08:46,653 - Acquiring data for niger
+2020-10-25 17:08:47,120 - Acquiring data for nigeria
+2020-10-25 17:08:47,614 - Acquiring data for north-korea
+2020-10-25 17:08:48,367 - Acquiring data for north-macedonia
+2020-10-25 17:08:48,930 - Acquiring data for norway
+2020-10-25 17:08:49,452 - Acquiring data for oman
+2020-10-25 17:08:50,047 - Acquiring data for pakistan
+2020-10-25 17:08:50,538 - Acquiring data for palau
+2020-10-25 17:08:50,965 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 17:08:51,549 - Acquiring data for panama
+2020-10-25 17:08:52,041 - Acquiring data for papua-new-guinea
+2020-10-25 17:08:52,517 - Acquiring data for paraguay
+2020-10-25 17:08:52,997 - Acquiring data for peru
+2020-10-25 17:08:53,487 - Acquiring data for philippines
+2020-10-25 17:08:53,982 - Acquiring data for pitcairn-island
+2020-10-25 17:08:54,965 - Acquiring data for poland
+2020-10-25 17:08:55,439 - Acquiring data for portugal
+2020-10-25 17:08:55,944 - Acquiring data for qatar
+2020-10-25 17:08:56,420 - Acquiring data for reunion
+2020-10-25 17:08:56,858 - Acquiring data for romania
+2020-10-25 17:08:57,315 - Acquiring data for russia
+2020-10-25 17:08:57,795 - Acquiring data for rwanda
+2020-10-25 17:08:58,261 - Acquiring data for samoa
+2020-10-25 17:08:58,717 - Acquiring data for san-marino
+2020-10-25 17:08:58,959 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:08:58,959 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:08:59,164 - Acquiring data for sao-tome-and-principe
+2020-10-25 17:08:59,606 - Acquiring data for saudi-arabia
+2020-10-25 17:09:00,109 - Acquiring data for senegal
+2020-10-25 17:09:00,569 - Acquiring data for serbia
+2020-10-25 17:09:01,026 - Acquiring data for seychelles
+2020-10-25 17:09:01,539 - Acquiring data for sierra-leone
+2020-10-25 17:09:02,002 - Acquiring data for singapore
+2020-10-25 17:09:02,505 - Acquiring data for slovakia
+2020-10-25 17:09:02,980 - Acquiring data for slovenia
+2020-10-25 17:09:03,523 - Acquiring data for solomon-islands
+2020-10-25 17:09:04,024 - Acquiring data for somalia
+2020-10-25 17:09:04,487 - Acquiring data for south-africa
+2020-10-25 17:09:04,986 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 17:09:05,224 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:09:05,224 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:09:05,429 - Acquiring data for south-korea
+2020-10-25 17:09:05,907 - Acquiring data for south-sudan
+2020-10-25 17:09:06,386 - Acquiring data for spain
+2020-10-25 17:09:06,885 - Acquiring data for sri-lanka
+2020-10-25 17:09:07,360 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 17:09:07,822 - Acquiring data for st-kitts-and-nevis
+2020-10-25 17:09:08,284 - Acquiring data for st-lucia
+2020-10-25 17:09:08,748 - Acquiring data for st-maarten
+2020-10-25 17:09:09,195 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 17:09:09,634 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 17:09:10,068 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 17:09:10,533 - Acquiring data for sudan
+2020-10-25 17:09:11,075 - Acquiring data for suriname
+2020-10-25 17:09:11,529 - Acquiring data for sweden
+2020-10-25 17:09:12,020 - Acquiring data for switzerland
+2020-10-25 17:09:13,935 - Acquiring data for syria
+2020-10-25 17:09:14,408 - Acquiring data for taiwan
+2020-10-25 17:09:16,529 - Acquiring data for tajikistan
+2020-10-25 17:09:16,977 - Acquiring data for tanzania
+2020-10-25 17:09:17,439 - Acquiring data for thailand
+2020-10-25 17:09:17,969 - Acquiring data for timor-leste
+2020-10-25 17:09:18,405 - Acquiring data for togo
+2020-10-25 17:09:18,850 - Acquiring data for tonga
+2020-10-25 17:09:19,306 - Acquiring data for trinidad-and-tobago
+2020-10-25 17:09:19,776 - Acquiring data for tunisia
+2020-10-25 17:09:20,252 - Acquiring data for turkey
+2020-10-25 17:09:20,786 - Acquiring data for turkmenistan
+2020-10-25 17:09:21,253 - Acquiring data for turks-and-caicos-islands
+2020-10-25 17:09:21,766 - Acquiring data for tuvalu
+2020-10-25 17:09:22,208 - Acquiring data for usa
+2020-10-25 17:09:22,736 - Acquiring data for uganda
+2020-10-25 17:09:23,224 - Acquiring data for ukraine
+2020-10-25 17:09:25,358 - Acquiring data for united-arab-emirates
+2020-10-25 17:09:25,837 - Acquiring data for uruguay
+2020-10-25 17:09:26,345 - Acquiring data for uzbekistan
+2020-10-25 17:09:26,835 - Acquiring data for vanuatu
+2020-10-25 17:09:27,280 - Acquiring data for venezuela
+2020-10-25 17:09:27,870 - Acquiring data for vietnam
+2020-10-25 17:09:28,328 - Acquiring data for wallis-and-futuna
+2020-10-25 17:09:28,754 - Acquiring data for western-sahara
+2020-10-25 17:09:29,060 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:09:29,061 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:09:29,262 - Acquiring data for yemen
+2020-10-25 17:09:29,712 - Acquiring data for zambia
+2020-10-25 17:09:30,176 - Acquiring data for zimbabwe
+2020-10-25 17:09:31,834 - Model was constructed with shape (None, 100) for input Tensor("embedding_input:0", shape=(None, 100), dtype=float32), but it was called on an input with incompatible shape (None, 200).
+2020-10-25 17:17:15,677 - Acquiring data for afghanistan
+2020-10-25 17:17:28,486 - Acquiring data for afghanistan
+2020-10-25 17:17:28,988 - Acquiring data for albania
+2020-10-25 17:17:29,441 - Acquiring data for algeria
+2020-10-25 17:17:29,905 - Acquiring data for andorra
+2020-10-25 17:17:30,142 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:17:30,142 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:17:30,343 - Acquiring data for angola
+2020-10-25 17:17:30,826 - Acquiring data for anguilla
+2020-10-25 17:17:31,290 - Acquiring data for antigua-and-barbuda
+2020-10-25 17:17:31,752 - Acquiring data for argentina
+2020-10-25 17:17:32,218 - Acquiring data for armenia
+2020-10-25 17:17:32,768 - Acquiring data for aruba
+2020-10-25 17:17:33,206 - Acquiring data for australia
+2020-10-25 17:17:33,733 - Acquiring data for austria
+2020-10-25 17:17:34,195 - Acquiring data for azerbaijan
+2020-10-25 17:17:35,043 - Acquiring data for bahamas
+2020-10-25 17:17:35,516 - Acquiring data for bahrain
+2020-10-25 17:17:35,980 - Acquiring data for bangladesh
+2020-10-25 17:17:36,461 - Acquiring data for barbados
+2020-10-25 17:17:36,934 - Acquiring data for belarus
+2020-10-25 17:17:37,407 - Acquiring data for belgium
+2020-10-25 17:17:37,890 - Acquiring data for belize
+2020-10-25 17:17:38,844 - Acquiring data for benin
+2020-10-25 17:17:39,321 - Acquiring data for bermuda
+2020-10-25 17:17:39,777 - Acquiring data for bhutan
+2020-10-25 17:17:40,027 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:17:40,027 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:17:40,229 - Acquiring data for bolivia
+2020-10-25 17:17:40,706 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 17:17:41,164 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 17:17:41,631 - Acquiring data for botswana
+2020-10-25 17:17:42,082 - Acquiring data for brazil
+2020-10-25 17:17:42,704 - Acquiring data for british-antarctic-territory
+2020-10-25 17:17:42,943 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:17:42,943 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:17:43,145 - Acquiring data for british-indian-ocean-territory
+2020-10-25 17:17:43,574 - Acquiring data for british-virgin-islands
+2020-10-25 17:17:44,035 - Acquiring data for brunei
+2020-10-25 17:17:44,591 - Acquiring data for bulgaria
+2020-10-25 17:17:45,061 - Acquiring data for burkina-faso
+2020-10-25 17:17:45,519 - Acquiring data for burundi
+2020-10-25 17:17:45,989 - Acquiring data for cambodia
+2020-10-25 17:17:46,527 - Acquiring data for cameroon
+2020-10-25 17:17:46,979 - Acquiring data for canada
+2020-10-25 17:17:47,479 - Acquiring data for cape-verde
+2020-10-25 17:17:47,940 - Acquiring data for cayman-islands
+2020-10-25 17:17:48,394 - Acquiring data for central-african-republic
+2020-10-25 17:17:48,846 - Acquiring data for chad
+2020-10-25 17:17:49,302 - Acquiring data for chile
+2020-10-25 17:17:49,784 - Acquiring data for china
+2020-10-25 17:17:50,273 - Acquiring data for colombia
+2020-10-25 17:17:50,764 - Acquiring data for comoros
+2020-10-25 17:17:51,224 - Acquiring data for congo
+2020-10-25 17:17:51,666 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 17:17:52,108 - Acquiring data for costa-rica
+2020-10-25 17:17:52,579 - Acquiring data for cote-d-ivoire
+2020-10-25 17:17:53,046 - Acquiring data for croatia
+2020-10-25 17:17:53,499 - Acquiring data for cuba
+2020-10-25 17:17:54,418 - Acquiring data for curacao
+2020-10-25 17:17:55,253 - Acquiring data for cyprus
+2020-10-25 17:17:56,017 - Acquiring data for czech-republic
+2020-10-25 17:17:56,634 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 17:17:57,308 - Acquiring data for denmark
+2020-10-25 17:17:57,955 - Acquiring data for djibouti
+2020-10-25 17:17:58,611 - Acquiring data for dominica
+2020-10-25 17:17:59,202 - Acquiring data for dominican-republic
+2020-10-25 17:17:59,807 - Acquiring data for ecuador
+2020-10-25 17:18:00,407 - Acquiring data for egypt
+2020-10-25 17:18:01,006 - Acquiring data for el-salvador
+2020-10-25 17:18:01,688 - Acquiring data for equatorial-guinea
+2020-10-25 17:18:02,256 - Acquiring data for eritrea
+2020-10-25 17:18:02,823 - Acquiring data for estonia
+2020-10-25 17:18:03,390 - Acquiring data for eswatini
+2020-10-25 17:18:04,010 - Acquiring data for ethiopia
+2020-10-25 17:18:04,748 - Acquiring data for falkland-islands
+2020-10-25 17:18:05,315 - Acquiring data for fiji
+2020-10-25 17:18:05,915 - Acquiring data for finland
+2020-10-25 17:18:06,463 - Acquiring data for france
+2020-10-25 17:18:06,998 - Acquiring data for french-guiana
+2020-10-25 17:18:07,452 - Acquiring data for french-polynesia
+2020-10-25 17:18:08,069 - Acquiring data for gabon
+2020-10-25 17:18:08,677 - Acquiring data for the-gambia
+2020-10-25 17:18:09,243 - Acquiring data for georgia
+2020-10-25 17:18:09,793 - Acquiring data for germany
+2020-10-25 17:18:10,371 - Acquiring data for ghana
+2020-10-25 17:18:11,009 - Acquiring data for gibraltar
+2020-10-25 17:18:11,609 - Acquiring data for greece
+2020-10-25 17:18:12,213 - Acquiring data for grenada
+2020-10-25 17:18:12,819 - Acquiring data for guadeloupe
+2020-10-25 17:18:13,337 - Acquiring data for guatemala
+2020-10-25 17:18:13,863 - Acquiring data for guinea
+2020-10-25 17:18:14,368 - Acquiring data for guinea-bissau
+2020-10-25 17:18:15,103 - Acquiring data for guyana
+2020-10-25 17:18:15,567 - Acquiring data for haiti
+2020-10-25 17:18:16,024 - Acquiring data for honduras
+2020-10-25 17:18:16,496 - Acquiring data for hong-kong
+2020-10-25 17:18:16,978 - Acquiring data for hungary
+2020-10-25 17:18:19,539 - Acquiring data for iceland
+2020-10-25 17:18:19,997 - Acquiring data for india
+2020-10-25 17:18:20,561 - Acquiring data for indonesia
+2020-10-25 17:18:21,056 - Acquiring data for iran
+2020-10-25 17:18:21,518 - Acquiring data for iraq
+2020-10-25 17:18:21,978 - Acquiring data for ireland
+2020-10-25 17:18:22,545 - Acquiring data for israel
+2020-10-25 17:18:23,030 - Acquiring data for italy
+2020-10-25 17:18:23,528 - Acquiring data for jamaica
+2020-10-25 17:18:25,824 - Acquiring data for japan
+2020-10-25 17:18:26,306 - Acquiring data for jordan
+2020-10-25 17:18:26,830 - Acquiring data for kazakhstan
+2020-10-25 17:18:27,283 - Acquiring data for kenya
+2020-10-25 17:18:27,785 - Acquiring data for kiribati
+2020-10-25 17:18:28,230 - Acquiring data for kosovo
+2020-10-25 17:18:28,703 - Acquiring data for kuwait
+2020-10-25 17:18:29,156 - Acquiring data for kyrgyzstan
+2020-10-25 17:18:29,625 - Acquiring data for laos
+2020-10-25 17:18:30,120 - Acquiring data for latvia
+2020-10-25 17:18:30,731 - Acquiring data for lebanon
+2020-10-25 17:18:31,223 - Acquiring data for lesotho
+2020-10-25 17:18:31,678 - Acquiring data for liberia
+2020-10-25 17:18:32,142 - Acquiring data for libya
+2020-10-25 17:18:32,392 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:18:32,392 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:18:32,597 - Acquiring data for liechtenstein
+2020-10-25 17:18:33,062 - Acquiring data for lithuania
+2020-10-25 17:18:33,530 - Acquiring data for luxembourg
+2020-10-25 17:18:33,780 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:18:33,780 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:18:33,980 - Acquiring data for macao
+2020-10-25 17:18:34,431 - Acquiring data for madagascar
+2020-10-25 17:18:34,893 - Acquiring data for malawi
+2020-10-25 17:18:35,442 - Acquiring data for malaysia
+2020-10-25 17:18:35,915 - Acquiring data for maldives
+2020-10-25 17:18:36,398 - Acquiring data for mali
+2020-10-25 17:18:36,862 - Acquiring data for malta
+2020-10-25 17:18:37,323 - Acquiring data for marshall-islands
+2020-10-25 17:18:37,803 - Acquiring data for martinique
+2020-10-25 17:18:39,510 - Acquiring data for mauritania
+2020-10-25 17:18:39,968 - Acquiring data for mauritius
+2020-10-25 17:18:40,570 - Acquiring data for mayotte
+2020-10-25 17:18:41,012 - Acquiring data for mexico
+2020-10-25 17:18:41,502 - Acquiring data for micronesia
+2020-10-25 17:18:41,962 - Acquiring data for moldova
+2020-10-25 17:18:42,458 - Acquiring data for monaco
+2020-10-25 17:18:43,002 - Acquiring data for mongolia
+2020-10-25 17:18:43,502 - Acquiring data for montenegro
+2020-10-25 17:18:43,958 - Acquiring data for montserrat
+2020-10-25 17:18:44,398 - Acquiring data for morocco
+2020-10-25 17:18:44,894 - Acquiring data for mozambique
+2020-10-25 17:18:45,368 - Acquiring data for myanmar
+2020-10-25 17:18:45,879 - Acquiring data for namibia
+2020-10-25 17:18:46,328 - Acquiring data for nauru
+2020-10-25 17:18:47,126 - Acquiring data for nepal
+2020-10-25 17:18:47,596 - Acquiring data for netherlands
+2020-10-25 17:18:48,064 - Acquiring data for new-caledonia
+2020-10-25 17:18:48,613 - Acquiring data for new-zealand
+2020-10-25 17:18:49,078 - Acquiring data for nicaragua
+2020-10-25 17:18:49,538 - Acquiring data for niger
+2020-10-25 17:18:49,993 - Acquiring data for nigeria
+2020-10-25 17:18:50,489 - Acquiring data for north-korea
+2020-10-25 17:18:51,021 - Acquiring data for north-macedonia
+2020-10-25 17:18:51,490 - Acquiring data for norway
+2020-10-25 17:18:51,957 - Acquiring data for oman
+2020-10-25 17:18:52,428 - Acquiring data for pakistan
+2020-10-25 17:18:52,963 - Acquiring data for palau
+2020-10-25 17:18:53,396 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 17:18:53,908 - Acquiring data for panama
+2020-10-25 17:18:54,372 - Acquiring data for papua-new-guinea
+2020-10-25 17:18:54,885 - Acquiring data for paraguay
+2020-10-25 17:18:55,352 - Acquiring data for peru
+2020-10-25 17:18:55,830 - Acquiring data for philippines
+2020-10-25 17:18:56,305 - Acquiring data for pitcairn-island
+2020-10-25 17:18:56,757 - Acquiring data for poland
+2020-10-25 17:18:57,229 - Acquiring data for portugal
+2020-10-25 17:18:57,732 - Acquiring data for qatar
+2020-10-25 17:18:58,220 - Acquiring data for reunion
+2020-10-25 17:18:58,684 - Acquiring data for romania
+2020-10-25 17:18:59,143 - Acquiring data for russia
+2020-10-25 17:18:59,624 - Acquiring data for rwanda
+2020-10-25 17:19:00,079 - Acquiring data for samoa
+2020-10-25 17:19:00,538 - Acquiring data for san-marino
+2020-10-25 17:19:01,128 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:19:01,128 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:19:01,328 - Acquiring data for sao-tome-and-principe
+2020-10-25 17:19:01,775 - Acquiring data for saudi-arabia
+2020-10-25 17:19:02,252 - Acquiring data for senegal
+2020-10-25 17:19:02,814 - Acquiring data for serbia
+2020-10-25 17:19:03,275 - Acquiring data for seychelles
+2020-10-25 17:19:03,742 - Acquiring data for sierra-leone
+2020-10-25 17:19:04,202 - Acquiring data for singapore
+2020-10-25 17:19:04,728 - Acquiring data for slovakia
+2020-10-25 17:19:05,198 - Acquiring data for slovenia
+2020-10-25 17:19:05,680 - Acquiring data for solomon-islands
+2020-10-25 17:19:06,168 - Acquiring data for somalia
+2020-10-25 17:19:06,621 - Acquiring data for south-africa
+2020-10-25 17:19:07,110 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 17:19:07,344 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:19:07,344 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:19:07,549 - Acquiring data for south-korea
+2020-10-25 17:19:08,012 - Acquiring data for south-sudan
+2020-10-25 17:19:08,480 - Acquiring data for spain
+2020-10-25 17:19:08,997 - Acquiring data for sri-lanka
+2020-10-25 17:19:09,475 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 17:19:09,920 - Acquiring data for st-kitts-and-nevis
+2020-10-25 17:19:10,375 - Acquiring data for st-lucia
+2020-10-25 17:19:10,862 - Acquiring data for st-maarten
+2020-10-25 17:19:11,310 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 17:19:11,750 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 17:19:12,193 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 17:19:12,656 - Acquiring data for sudan
+2020-10-25 17:19:13,136 - Acquiring data for suriname
+2020-10-25 17:19:13,603 - Acquiring data for sweden
+2020-10-25 17:19:14,060 - Acquiring data for switzerland
+2020-10-25 17:19:14,530 - Acquiring data for syria
+2020-10-25 17:19:14,981 - Acquiring data for taiwan
+2020-10-25 17:19:15,468 - Acquiring data for tajikistan
+2020-10-25 17:19:15,921 - Acquiring data for tanzania
+2020-10-25 17:19:16,398 - Acquiring data for thailand
+2020-10-25 17:19:16,921 - Acquiring data for timor-leste
+2020-10-25 17:19:17,369 - Acquiring data for togo
+2020-10-25 17:19:17,815 - Acquiring data for tonga
+2020-10-25 17:19:18,269 - Acquiring data for trinidad-and-tobago
+2020-10-25 17:19:18,853 - Acquiring data for tunisia
+2020-10-25 17:19:19,331 - Acquiring data for turkey
+2020-10-25 17:19:19,828 - Acquiring data for turkmenistan
+2020-10-25 17:19:20,293 - Acquiring data for turks-and-caicos-islands
+2020-10-25 17:19:20,761 - Acquiring data for tuvalu
+2020-10-25 17:19:21,207 - Acquiring data for usa
+2020-10-25 17:19:21,691 - Acquiring data for uganda
+2020-10-25 17:19:22,161 - Acquiring data for ukraine
+2020-10-25 17:19:23,040 - Acquiring data for united-arab-emirates
+2020-10-25 17:19:23,614 - Acquiring data for uruguay
+2020-10-25 17:19:24,071 - Acquiring data for uzbekistan
+2020-10-25 17:19:24,531 - Acquiring data for vanuatu
+2020-10-25 17:19:24,985 - Acquiring data for venezuela
+2020-10-25 17:19:25,443 - Acquiring data for vietnam
+2020-10-25 17:19:25,920 - Acquiring data for wallis-and-futuna
+2020-10-25 17:19:26,362 - Acquiring data for western-sahara
+2020-10-25 17:19:26,624 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:19:26,624 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:19:26,824 - Acquiring data for yemen
+2020-10-25 17:19:27,276 - Acquiring data for zambia
+2020-10-25 17:19:27,739 - Acquiring data for zimbabwe
+2020-10-25 17:19:29,266 - Model was constructed with shape (None, 100) for input Tensor("embedding_input:0", shape=(None, 100), dtype=float32), but it was called on an input with incompatible shape (None, 200).
+2020-10-25 17:36:04,128 - Acquiring data for afghanistan
+2020-10-25 17:36:04,744 - Acquiring data for albania
+2020-10-25 17:36:05,213 - Acquiring data for algeria
+2020-10-25 17:36:05,696 - Acquiring data for andorra
+2020-10-25 17:36:05,943 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:36:05,944 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:36:06,149 - Acquiring data for angola
+2020-10-25 17:36:06,644 - Acquiring data for anguilla
+2020-10-25 17:36:07,099 - Acquiring data for antigua-and-barbuda
+2020-10-25 17:36:07,562 - Acquiring data for argentina
+2020-10-25 17:36:08,124 - Acquiring data for armenia
+2020-10-25 17:36:08,581 - Acquiring data for aruba
+2020-10-25 17:36:09,024 - Acquiring data for australia
+2020-10-25 17:36:10,765 - Acquiring data for austria
+2020-10-25 17:36:11,247 - Acquiring data for azerbaijan
+2020-10-25 17:36:11,732 - Acquiring data for bahamas
+2020-10-25 17:36:12,207 - Acquiring data for bahrain
+2020-10-25 17:36:12,680 - Acquiring data for bangladesh
+2020-10-25 17:36:13,173 - Acquiring data for barbados
+2020-10-25 17:36:13,647 - Acquiring data for belarus
+2020-10-25 17:36:14,107 - Acquiring data for belgium
+2020-10-25 17:36:14,597 - Acquiring data for belize
+2020-10-25 17:36:15,236 - Acquiring data for benin
+2020-10-25 17:36:15,710 - Acquiring data for bermuda
+2020-10-25 17:36:16,167 - Acquiring data for bhutan
+2020-10-25 17:36:16,418 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:36:16,418 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:36:16,620 - Acquiring data for bolivia
+2020-10-25 17:36:17,094 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 17:36:17,536 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 17:36:18,085 - Acquiring data for botswana
+2020-10-25 17:36:18,544 - Acquiring data for brazil
+2020-10-25 17:36:19,011 - Acquiring data for british-antarctic-territory
+2020-10-25 17:36:19,252 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:36:19,252 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:36:19,452 - Acquiring data for british-indian-ocean-territory
+2020-10-25 17:36:19,915 - Acquiring data for british-virgin-islands
+2020-10-25 17:36:20,384 - Acquiring data for brunei
+2020-10-25 17:36:20,869 - Acquiring data for bulgaria
+2020-10-25 17:36:21,353 - Acquiring data for burkina-faso
+2020-10-25 17:36:21,880 - Acquiring data for burundi
+2020-10-25 17:36:22,355 - Acquiring data for cambodia
+2020-10-25 17:36:22,841 - Acquiring data for cameroon
+2020-10-25 17:36:23,322 - Acquiring data for canada
+2020-10-25 17:36:23,978 - Acquiring data for cape-verde
+2020-10-25 17:36:24,449 - Acquiring data for cayman-islands
+2020-10-25 17:36:24,890 - Acquiring data for central-african-republic
+2020-10-25 17:36:25,353 - Acquiring data for chad
+2020-10-25 17:36:25,935 - Acquiring data for chile
+2020-10-25 17:36:26,426 - Acquiring data for china
+2020-10-25 17:36:26,925 - Acquiring data for colombia
+2020-10-25 17:36:27,410 - Acquiring data for comoros
+2020-10-25 17:36:28,117 - Acquiring data for congo
+2020-10-25 17:36:28,572 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 17:36:29,019 - Acquiring data for costa-rica
+2020-10-25 17:36:29,497 - Acquiring data for cote-d-ivoire
+2020-10-25 17:36:30,021 - Acquiring data for croatia
+2020-10-25 17:36:30,478 - Acquiring data for cuba
+2020-10-25 17:36:30,951 - Acquiring data for curacao
+2020-10-25 17:36:31,400 - Acquiring data for cyprus
+2020-10-25 17:36:32,015 - Acquiring data for czech-republic
+2020-10-25 17:36:32,492 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 17:36:33,038 - Acquiring data for denmark
+2020-10-25 17:36:33,516 - Acquiring data for djibouti
+2020-10-25 17:36:34,075 - Acquiring data for dominica
+2020-10-25 17:36:34,664 - Acquiring data for dominican-republic
+2020-10-25 17:36:35,143 - Acquiring data for ecuador
+2020-10-25 17:36:35,651 - Acquiring data for egypt
+2020-10-25 17:36:36,148 - Acquiring data for el-salvador
+2020-10-25 17:36:36,601 - Acquiring data for equatorial-guinea
+2020-10-25 17:36:37,063 - Acquiring data for eritrea
+2020-10-25 17:36:37,538 - Acquiring data for estonia
+2020-10-25 17:36:38,002 - Acquiring data for eswatini
+2020-10-25 17:36:38,443 - Acquiring data for ethiopia
+2020-10-25 17:36:38,990 - Acquiring data for falkland-islands
+2020-10-25 17:36:39,427 - Acquiring data for fiji
+2020-10-25 17:36:39,988 - Acquiring data for finland
+2020-10-25 17:36:40,441 - Acquiring data for france
+2020-10-25 17:36:40,992 - Acquiring data for french-guiana
+2020-10-25 17:36:41,443 - Acquiring data for french-polynesia
+2020-10-25 17:36:42,258 - Acquiring data for gabon
+2020-10-25 17:36:44,498 - Acquiring data for the-gambia
+2020-10-25 17:36:44,966 - Acquiring data for georgia
+2020-10-25 17:36:45,893 - Acquiring data for germany
+2020-10-25 17:36:46,366 - Acquiring data for ghana
+2020-10-25 17:36:46,828 - Acquiring data for gibraltar
+2020-10-25 17:36:47,285 - Acquiring data for greece
+2020-10-25 17:36:47,831 - Acquiring data for grenada
+2020-10-25 17:36:48,291 - Acquiring data for guadeloupe
+2020-10-25 17:36:48,751 - Acquiring data for guatemala
+2020-10-25 17:36:49,254 - Acquiring data for guinea
+2020-10-25 17:36:49,777 - Acquiring data for guinea-bissau
+2020-10-25 17:36:50,229 - Acquiring data for guyana
+2020-10-25 17:36:50,695 - Acquiring data for haiti
+2020-10-25 17:36:51,159 - Acquiring data for honduras
+2020-10-25 17:36:51,620 - Acquiring data for hong-kong
+2020-10-25 17:36:52,115 - Acquiring data for hungary
+2020-10-25 17:36:52,598 - Acquiring data for iceland
+2020-10-25 17:36:53,119 - Acquiring data for india
+2020-10-25 17:36:53,619 - Acquiring data for indonesia
+2020-10-25 17:36:54,134 - Acquiring data for iran
+2020-10-25 17:36:54,631 - Acquiring data for iraq
+2020-10-25 17:36:55,103 - Acquiring data for ireland
+2020-10-25 17:36:59,883 - Acquiring data for israel
+2020-10-25 17:37:00,451 - Acquiring data for italy
+2020-10-25 17:37:03,190 - Acquiring data for jamaica
+2020-10-25 17:37:03,671 - Acquiring data for japan
+2020-10-25 17:37:04,165 - Acquiring data for jordan
+2020-10-25 17:37:04,709 - Acquiring data for kazakhstan
+2020-10-25 17:37:05,174 - Acquiring data for kenya
+2020-10-25 17:37:05,731 - Acquiring data for kiribati
+2020-10-25 17:37:06,173 - Acquiring data for kosovo
+2020-10-25 17:37:06,645 - Acquiring data for kuwait
+2020-10-25 17:37:07,097 - Acquiring data for kyrgyzstan
+2020-10-25 17:37:07,579 - Acquiring data for laos
+2020-10-25 17:37:08,066 - Acquiring data for latvia
+2020-10-25 17:37:08,573 - Acquiring data for lebanon
+2020-10-25 17:37:09,084 - Acquiring data for lesotho
+2020-10-25 17:37:09,538 - Acquiring data for liberia
+2020-10-25 17:37:10,104 - Acquiring data for libya
+2020-10-25 17:37:10,380 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:37:10,381 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:37:10,584 - Acquiring data for liechtenstein
+2020-10-25 17:37:11,038 - Acquiring data for lithuania
+2020-10-25 17:37:11,956 - Acquiring data for luxembourg
+2020-10-25 17:37:12,216 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:37:12,216 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:37:12,421 - Acquiring data for macao
+2020-10-25 17:37:12,869 - Acquiring data for madagascar
+2020-10-25 17:37:13,330 - Acquiring data for malawi
+2020-10-25 17:37:13,892 - Acquiring data for malaysia
+2020-10-25 17:37:14,364 - Acquiring data for maldives
+2020-10-25 17:37:14,832 - Acquiring data for mali
+2020-10-25 17:37:15,310 - Acquiring data for malta
+2020-10-25 17:37:15,849 - Acquiring data for marshall-islands
+2020-10-25 17:37:16,296 - Acquiring data for martinique
+2020-10-25 17:37:16,738 - Acquiring data for mauritania
+2020-10-25 17:37:17,196 - Acquiring data for mauritius
+2020-10-25 17:37:17,673 - Acquiring data for mayotte
+2020-10-25 17:37:18,112 - Acquiring data for mexico
+2020-10-25 17:37:18,600 - Acquiring data for micronesia
+2020-10-25 17:37:19,042 - Acquiring data for moldova
+2020-10-25 17:37:19,552 - Acquiring data for monaco
+2020-10-25 17:37:20,003 - Acquiring data for mongolia
+2020-10-25 17:37:20,491 - Acquiring data for montenegro
+2020-10-25 17:37:20,979 - Acquiring data for montserrat
+2020-10-25 17:37:21,438 - Acquiring data for morocco
+2020-10-25 17:37:21,918 - Acquiring data for mozambique
+2020-10-25 17:37:22,406 - Acquiring data for myanmar
+2020-10-25 17:37:22,913 - Acquiring data for namibia
+2020-10-25 17:37:25,191 - Acquiring data for nauru
+2020-10-25 17:37:25,646 - Acquiring data for nepal
+2020-10-25 17:37:26,151 - Acquiring data for netherlands
+2020-10-25 17:37:26,649 - Acquiring data for new-caledonia
+2020-10-25 17:37:27,137 - Acquiring data for new-zealand
+2020-10-25 17:37:27,616 - Acquiring data for nicaragua
+2020-10-25 17:37:28,086 - Acquiring data for niger
+2020-10-25 17:37:28,543 - Acquiring data for nigeria
+2020-10-25 17:37:29,085 - Acquiring data for north-korea
+2020-10-25 17:37:29,557 - Acquiring data for north-macedonia
+2020-10-25 17:37:30,025 - Acquiring data for norway
+2020-10-25 17:37:30,527 - Acquiring data for oman
+2020-10-25 17:37:31,038 - Acquiring data for pakistan
+2020-10-25 17:37:31,528 - Acquiring data for palau
+2020-10-25 17:37:31,984 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 17:37:32,470 - Acquiring data for panama
+2020-10-25 17:37:32,942 - Acquiring data for papua-new-guinea
+2020-10-25 17:37:33,409 - Acquiring data for paraguay
+2020-10-25 17:37:33,931 - Acquiring data for peru
+2020-10-25 17:37:34,414 - Acquiring data for philippines
+2020-10-25 17:37:34,903 - Acquiring data for pitcairn-island
+2020-10-25 17:37:35,353 - Acquiring data for poland
+2020-10-25 17:37:35,863 - Acquiring data for portugal
+2020-10-25 17:37:36,357 - Acquiring data for qatar
+2020-10-25 17:37:36,815 - Acquiring data for reunion
+2020-10-25 17:37:37,250 - Acquiring data for romania
+2020-10-25 17:37:37,706 - Acquiring data for russia
+2020-10-25 17:37:38,214 - Acquiring data for rwanda
+2020-10-25 17:37:38,670 - Acquiring data for samoa
+2020-10-25 17:37:39,131 - Acquiring data for san-marino
+2020-10-25 17:37:39,368 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:37:39,368 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:37:39,570 - Acquiring data for sao-tome-and-principe
+2020-10-25 17:37:40,242 - Acquiring data for saudi-arabia
+2020-10-25 17:37:40,730 - Acquiring data for senegal
+2020-10-25 17:37:41,205 - Acquiring data for serbia
+2020-10-25 17:37:41,756 - Acquiring data for seychelles
+2020-10-25 17:37:42,239 - Acquiring data for sierra-leone
+2020-10-25 17:37:42,738 - Acquiring data for singapore
+2020-10-25 17:37:43,204 - Acquiring data for slovakia
+2020-10-25 17:37:43,691 - Acquiring data for slovenia
+2020-10-25 17:37:44,240 - Acquiring data for solomon-islands
+2020-10-25 17:37:44,714 - Acquiring data for somalia
+2020-10-25 17:37:45,219 - Acquiring data for south-africa
+2020-10-25 17:37:45,718 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 17:37:45,955 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:37:45,955 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:37:46,160 - Acquiring data for south-korea
+2020-10-25 17:37:46,632 - Acquiring data for south-sudan
+2020-10-25 17:37:47,086 - Acquiring data for spain
+2020-10-25 17:37:47,585 - Acquiring data for sri-lanka
+2020-10-25 17:37:48,104 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 17:37:48,602 - Acquiring data for st-kitts-and-nevis
+2020-10-25 17:37:49,051 - Acquiring data for st-lucia
+2020-10-25 17:37:49,513 - Acquiring data for st-maarten
+2020-10-25 17:37:49,956 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 17:37:50,420 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 17:37:50,867 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 17:37:51,363 - Acquiring data for sudan
+2020-10-25 17:37:51,916 - Acquiring data for suriname
+2020-10-25 17:37:52,398 - Acquiring data for sweden
+2020-10-25 17:37:52,899 - Acquiring data for switzerland
+2020-10-25 17:37:53,378 - Acquiring data for syria
+2020-10-25 17:37:53,820 - Acquiring data for taiwan
+2020-10-25 17:37:54,291 - Acquiring data for tajikistan
+2020-10-25 17:37:54,766 - Acquiring data for tanzania
+2020-10-25 17:37:55,238 - Acquiring data for thailand
+2020-10-25 17:37:55,760 - Acquiring data for timor-leste
+2020-10-25 17:37:56,211 - Acquiring data for togo
+2020-10-25 17:37:56,660 - Acquiring data for tonga
+2020-10-25 17:37:57,127 - Acquiring data for trinidad-and-tobago
+2020-10-25 17:37:57,600 - Acquiring data for tunisia
+2020-10-25 17:37:58,106 - Acquiring data for turkey
+2020-10-25 17:37:58,594 - Acquiring data for turkmenistan
+2020-10-25 17:37:59,050 - Acquiring data for turks-and-caicos-islands
+2020-10-25 17:37:59,506 - Acquiring data for tuvalu
+2020-10-25 17:37:59,996 - Acquiring data for usa
+2020-10-25 17:38:00,490 - Acquiring data for uganda
+2020-10-25 17:38:00,971 - Acquiring data for ukraine
+2020-10-25 17:38:01,461 - Acquiring data for united-arab-emirates
+2020-10-25 17:38:02,040 - Acquiring data for uruguay
+2020-10-25 17:38:02,533 - Acquiring data for uzbekistan
+2020-10-25 17:38:02,995 - Acquiring data for vanuatu
+2020-10-25 17:38:03,456 - Acquiring data for venezuela
+2020-10-25 17:38:03,970 - Acquiring data for vietnam
+2020-10-25 17:38:04,458 - Acquiring data for wallis-and-futuna
+2020-10-25 17:38:06,336 - Acquiring data for western-sahara
+2020-10-25 17:38:06,566 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:38:06,566 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:38:06,768 - Acquiring data for yemen
+2020-10-25 17:38:07,215 - Acquiring data for zambia
+2020-10-25 17:38:09,615 - Acquiring data for zimbabwe
+2020-10-25 17:38:11,235 - Model was constructed with shape (None, 100) for input Tensor("embedding_input:0", shape=(None, 100), dtype=float32), but it was called on an input with incompatible shape (None, 200).
+2020-10-25 17:41:10,752 - Acquiring data for afghanistan
+2020-10-25 17:41:11,257 - Acquiring data for albania
+2020-10-25 17:41:11,717 - Acquiring data for algeria
+2020-10-25 17:41:12,288 - Acquiring data for andorra
+2020-10-25 17:41:12,527 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:41:12,527 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:41:12,729 - Acquiring data for angola
+2020-10-25 17:41:13,177 - Acquiring data for anguilla
+2020-10-25 17:41:13,625 - Acquiring data for antigua-and-barbuda
+2020-10-25 17:41:14,140 - Acquiring data for argentina
+2020-10-25 17:41:14,613 - Acquiring data for armenia
+2020-10-25 17:41:15,077 - Acquiring data for aruba
+2020-10-25 17:41:15,525 - Acquiring data for australia
+2020-10-25 17:41:16,076 - Acquiring data for austria
+2020-10-25 17:41:16,555 - Acquiring data for azerbaijan
+2020-10-25 17:41:17,023 - Acquiring data for bahamas
+2020-10-25 17:41:17,493 - Acquiring data for bahrain
+2020-10-25 17:41:17,965 - Acquiring data for bangladesh
+2020-10-25 17:41:18,450 - Acquiring data for barbados
+2020-10-25 17:41:18,902 - Acquiring data for belarus
+2020-10-25 17:41:19,356 - Acquiring data for belgium
+2020-10-25 17:41:19,842 - Acquiring data for belize
+2020-10-25 17:41:20,381 - Acquiring data for benin
+2020-10-25 17:41:20,841 - Acquiring data for bermuda
+2020-10-25 17:41:21,325 - Acquiring data for bhutan
+2020-10-25 17:41:21,569 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:41:21,569 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:41:21,774 - Acquiring data for bolivia
+2020-10-25 17:41:22,290 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 17:41:22,728 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 17:41:23,183 - Acquiring data for botswana
+2020-10-25 17:41:23,646 - Acquiring data for brazil
+2020-10-25 17:41:24,162 - Acquiring data for british-antarctic-territory
+2020-10-25 17:41:24,402 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:41:24,402 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:41:24,605 - Acquiring data for british-indian-ocean-territory
+2020-10-25 17:41:25,036 - Acquiring data for british-virgin-islands
+2020-10-25 17:41:25,500 - Acquiring data for brunei
+2020-10-25 17:41:25,946 - Acquiring data for bulgaria
+2020-10-25 17:41:26,431 - Acquiring data for burkina-faso
+2020-10-25 17:41:26,887 - Acquiring data for burundi
+2020-10-25 17:41:27,344 - Acquiring data for cambodia
+2020-10-25 17:41:27,828 - Acquiring data for cameroon
+2020-10-25 17:41:28,389 - Acquiring data for canada
+2020-10-25 17:41:28,862 - Acquiring data for cape-verde
+2020-10-25 17:41:29,318 - Acquiring data for cayman-islands
+2020-10-25 17:41:29,760 - Acquiring data for central-african-republic
+2020-10-25 17:41:30,316 - Acquiring data for chad
+2020-10-25 17:41:30,786 - Acquiring data for chile
+2020-10-25 17:41:31,352 - Acquiring data for china
+2020-10-25 17:41:32,005 - Acquiring data for colombia
+2020-10-25 17:41:32,544 - Acquiring data for comoros
+2020-10-25 17:41:32,995 - Acquiring data for congo
+2020-10-25 17:41:33,449 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 17:41:33,889 - Acquiring data for costa-rica
+2020-10-25 17:41:34,377 - Acquiring data for cote-d-ivoire
+2020-10-25 17:41:34,835 - Acquiring data for croatia
+2020-10-25 17:41:35,293 - Acquiring data for cuba
+2020-10-25 17:41:35,760 - Acquiring data for curacao
+2020-10-25 17:41:36,218 - Acquiring data for cyprus
+2020-10-25 17:41:36,689 - Acquiring data for czech-republic
+2020-10-25 17:41:37,151 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 17:41:37,643 - Acquiring data for denmark
+2020-10-25 17:41:38,196 - Acquiring data for djibouti
+2020-10-25 17:41:38,636 - Acquiring data for dominica
+2020-10-25 17:41:39,100 - Acquiring data for dominican-republic
+2020-10-25 17:41:39,576 - Acquiring data for ecuador
+2020-10-25 17:41:40,111 - Acquiring data for egypt
+2020-10-25 17:41:40,604 - Acquiring data for el-salvador
+2020-10-25 17:41:41,109 - Acquiring data for equatorial-guinea
+2020-10-25 17:41:41,571 - Acquiring data for eritrea
+2020-10-25 17:41:42,121 - Acquiring data for estonia
+2020-10-25 17:41:42,572 - Acquiring data for eswatini
+2020-10-25 17:41:43,019 - Acquiring data for ethiopia
+2020-10-25 17:41:43,505 - Acquiring data for falkland-islands
+2020-10-25 17:41:44,111 - Acquiring data for fiji
+2020-10-25 17:41:44,566 - Acquiring data for finland
+2020-10-25 17:41:45,021 - Acquiring data for france
+2020-10-25 17:41:45,527 - Acquiring data for french-guiana
+2020-10-25 17:41:46,070 - Acquiring data for french-polynesia
+2020-10-25 17:41:46,514 - Acquiring data for gabon
+2020-10-25 17:41:46,967 - Acquiring data for the-gambia
+2020-10-25 17:41:47,423 - Acquiring data for georgia
+2020-10-25 17:41:47,898 - Acquiring data for germany
+2020-10-25 17:41:48,377 - Acquiring data for ghana
+2020-10-25 17:41:48,851 - Acquiring data for gibraltar
+2020-10-25 17:41:49,307 - Acquiring data for greece
+2020-10-25 17:41:49,816 - Acquiring data for grenada
+2020-10-25 17:41:50,331 - Acquiring data for guadeloupe
+2020-10-25 17:41:50,767 - Acquiring data for guatemala
+2020-10-25 17:41:51,251 - Acquiring data for guinea
+2020-10-25 17:41:51,712 - Acquiring data for guinea-bissau
+2020-10-25 17:41:52,160 - Acquiring data for guyana
+2020-10-25 17:41:52,622 - Acquiring data for haiti
+2020-10-25 17:41:53,080 - Acquiring data for honduras
+2020-10-25 17:41:53,541 - Acquiring data for hong-kong
+2020-10-25 17:41:54,027 - Acquiring data for hungary
+2020-10-25 17:41:54,490 - Acquiring data for iceland
+2020-10-25 17:41:54,955 - Acquiring data for india
+2020-10-25 17:41:55,461 - Acquiring data for indonesia
+2020-10-25 17:41:55,966 - Acquiring data for iran
+2020-10-25 17:41:56,436 - Acquiring data for iraq
+2020-10-25 17:41:56,903 - Acquiring data for ireland
+2020-10-25 17:41:57,356 - Acquiring data for israel
+2020-10-25 17:41:57,834 - Acquiring data for italy
+2020-10-25 17:41:58,345 - Acquiring data for jamaica
+2020-10-25 17:41:58,820 - Acquiring data for japan
+2020-10-25 17:41:59,308 - Acquiring data for jordan
+2020-10-25 17:41:59,784 - Acquiring data for kazakhstan
+2020-10-25 17:42:00,388 - Acquiring data for kenya
+2020-10-25 17:42:00,881 - Acquiring data for kiribati
+2020-10-25 17:42:01,321 - Acquiring data for kosovo
+2020-10-25 17:42:01,786 - Acquiring data for kuwait
+2020-10-25 17:42:02,240 - Acquiring data for kyrgyzstan
+2020-10-25 17:42:02,748 - Acquiring data for laos
+2020-10-25 17:42:03,215 - Acquiring data for latvia
+2020-10-25 17:42:03,671 - Acquiring data for lebanon
+2020-10-25 17:42:04,184 - Acquiring data for lesotho
+2020-10-25 17:42:04,633 - Acquiring data for liberia
+2020-10-25 17:42:05,108 - Acquiring data for libya
+2020-10-25 17:42:05,359 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:42:05,359 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:42:05,560 - Acquiring data for liechtenstein
+2020-10-25 17:42:06,058 - Acquiring data for lithuania
+2020-10-25 17:42:06,523 - Acquiring data for luxembourg
+2020-10-25 17:42:06,779 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:42:06,779 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:42:06,980 - Acquiring data for macao
+2020-10-25 17:42:07,439 - Acquiring data for madagascar
+2020-10-25 17:42:07,911 - Acquiring data for malawi
+2020-10-25 17:42:10,370 - Acquiring data for malaysia
+2020-10-25 17:42:10,845 - Acquiring data for maldives
+2020-10-25 17:42:11,302 - Acquiring data for mali
+2020-10-25 17:42:11,768 - Acquiring data for malta
+2020-10-25 17:42:12,244 - Acquiring data for marshall-islands
+2020-10-25 17:42:12,696 - Acquiring data for martinique
+2020-10-25 17:42:13,147 - Acquiring data for mauritania
+2020-10-25 17:42:13,605 - Acquiring data for mauritius
+2020-10-25 17:42:14,149 - Acquiring data for mayotte
+2020-10-25 17:42:14,595 - Acquiring data for mexico
+2020-10-25 17:42:15,080 - Acquiring data for micronesia
+2020-10-25 17:42:15,524 - Acquiring data for moldova
+2020-10-25 17:42:15,988 - Acquiring data for monaco
+2020-10-25 17:42:16,476 - Acquiring data for mongolia
+2020-10-25 17:42:16,947 - Acquiring data for montenegro
+2020-10-25 17:42:17,435 - Acquiring data for montserrat
+2020-10-25 17:42:17,900 - Acquiring data for morocco
+2020-10-25 17:42:18,401 - Acquiring data for mozambique
+2020-10-25 17:42:18,882 - Acquiring data for myanmar
+2020-10-25 17:42:19,410 - Acquiring data for namibia
+2020-10-25 17:42:19,910 - Acquiring data for nauru
+2020-10-25 17:42:20,378 - Acquiring data for nepal
+2020-10-25 17:42:20,841 - Acquiring data for netherlands
+2020-10-25 17:42:21,329 - Acquiring data for new-caledonia
+2020-10-25 17:42:21,823 - Acquiring data for new-zealand
+2020-10-25 17:42:22,315 - Acquiring data for nicaragua
+2020-10-25 17:42:22,775 - Acquiring data for niger
+2020-10-25 17:42:23,242 - Acquiring data for nigeria
+2020-10-25 17:42:23,766 - Acquiring data for north-korea
+2020-10-25 17:42:24,328 - Acquiring data for north-macedonia
+2020-10-25 17:42:24,787 - Acquiring data for norway
+2020-10-25 17:42:25,285 - Acquiring data for oman
+2020-10-25 17:42:25,748 - Acquiring data for pakistan
+2020-10-25 17:42:26,283 - Acquiring data for palau
+2020-10-25 17:42:26,733 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 17:42:27,225 - Acquiring data for panama
+2020-10-25 17:42:27,690 - Acquiring data for papua-new-guinea
+2020-10-25 17:42:28,217 - Acquiring data for paraguay
+2020-10-25 17:42:28,728 - Acquiring data for peru
+2020-10-25 17:42:29,208 - Acquiring data for philippines
+2020-10-25 17:42:29,697 - Acquiring data for pitcairn-island
+2020-10-25 17:42:30,142 - Acquiring data for poland
+2020-10-25 17:42:30,614 - Acquiring data for portugal
+2020-10-25 17:42:31,111 - Acquiring data for qatar
+2020-10-25 17:42:31,568 - Acquiring data for reunion
+2020-10-25 17:42:32,171 - Acquiring data for romania
+2020-10-25 17:42:32,642 - Acquiring data for russia
+2020-10-25 17:42:33,143 - Acquiring data for rwanda
+2020-10-25 17:42:33,610 - Acquiring data for samoa
+2020-10-25 17:42:34,067 - Acquiring data for san-marino
+2020-10-25 17:42:34,312 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:42:34,312 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:42:34,514 - Acquiring data for sao-tome-and-principe
+2020-10-25 17:42:34,957 - Acquiring data for saudi-arabia
+2020-10-25 17:42:35,435 - Acquiring data for senegal
+2020-10-25 17:42:35,908 - Acquiring data for serbia
+2020-10-25 17:42:36,421 - Acquiring data for seychelles
+2020-10-25 17:42:36,886 - Acquiring data for sierra-leone
+2020-10-25 17:42:37,342 - Acquiring data for singapore
+2020-10-25 17:42:37,807 - Acquiring data for slovakia
+2020-10-25 17:42:38,297 - Acquiring data for slovenia
+2020-10-25 17:42:38,827 - Acquiring data for solomon-islands
+2020-10-25 17:42:39,318 - Acquiring data for somalia
+2020-10-25 17:42:39,841 - Acquiring data for south-africa
+2020-10-25 17:42:40,448 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 17:42:40,682 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:42:40,682 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:42:40,886 - Acquiring data for south-korea
+2020-10-25 17:42:41,350 - Acquiring data for south-sudan
+2020-10-25 17:42:41,801 - Acquiring data for spain
+2020-10-25 17:42:42,332 - Acquiring data for sri-lanka
+2020-10-25 17:42:42,852 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 17:42:43,308 - Acquiring data for st-kitts-and-nevis
+2020-10-25 17:42:45,155 - Acquiring data for st-lucia
+2020-10-25 17:42:45,618 - Acquiring data for st-maarten
+2020-10-25 17:42:46,061 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 17:42:46,516 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 17:42:46,952 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 17:42:47,449 - Acquiring data for sudan
+2020-10-25 17:42:47,918 - Acquiring data for suriname
+2020-10-25 17:42:48,517 - Acquiring data for sweden
+2020-10-25 17:42:48,971 - Acquiring data for switzerland
+2020-10-25 17:42:49,441 - Acquiring data for syria
+2020-10-25 17:42:49,880 - Acquiring data for taiwan
+2020-10-25 17:42:50,551 - Acquiring data for tajikistan
+2020-10-25 17:42:51,024 - Acquiring data for tanzania
+2020-10-25 17:42:51,504 - Acquiring data for thailand
+2020-10-25 17:42:52,083 - Acquiring data for timor-leste
+2020-10-25 17:42:52,529 - Acquiring data for togo
+2020-10-25 17:42:52,969 - Acquiring data for tonga
+2020-10-25 17:42:53,430 - Acquiring data for trinidad-and-tobago
+2020-10-25 17:42:53,891 - Acquiring data for tunisia
+2020-10-25 17:42:54,428 - Acquiring data for turkey
+2020-10-25 17:42:54,954 - Acquiring data for turkmenistan
+2020-10-25 17:42:55,410 - Acquiring data for turks-and-caicos-islands
+2020-10-25 17:42:55,873 - Acquiring data for tuvalu
+2020-10-25 17:42:56,331 - Acquiring data for usa
+2020-10-25 17:42:56,816 - Acquiring data for uganda
+2020-10-25 17:42:57,306 - Acquiring data for ukraine
+2020-10-25 17:42:57,792 - Acquiring data for united-arab-emirates
+2020-10-25 17:42:58,282 - Acquiring data for uruguay
+2020-10-25 17:42:58,747 - Acquiring data for uzbekistan
+2020-10-25 17:42:59,219 - Acquiring data for vanuatu
+2020-10-25 17:42:59,675 - Acquiring data for venezuela
+2020-10-25 17:43:00,204 - Acquiring data for vietnam
+2020-10-25 17:43:00,681 - Acquiring data for wallis-and-futuna
+2020-10-25 17:43:01,128 - Acquiring data for western-sahara
+2020-10-25 17:43:01,370 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:43:01,370 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:43:01,573 - Acquiring data for yemen
+2020-10-25 17:43:02,118 - Acquiring data for zambia
+2020-10-25 17:43:02,574 - Acquiring data for zimbabwe
+2020-10-25 17:43:04,144 - Model was constructed with shape (None, 100) for input Tensor("embedding_input:0", shape=(None, 100), dtype=float32), but it was called on an input with incompatible shape (None, 200).
+2020-10-25 17:50:17,449 - Acquiring data for afghanistan
+2020-10-25 17:50:17,959 - Acquiring data for albania
+2020-10-25 17:50:18,419 - Acquiring data for algeria
+2020-10-25 17:50:18,927 - Acquiring data for andorra
+2020-10-25 17:50:19,172 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:50:19,172 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:50:19,378 - Acquiring data for angola
+2020-10-25 17:50:19,836 - Acquiring data for anguilla
+2020-10-25 17:50:20,283 - Acquiring data for antigua-and-barbuda
+2020-10-25 17:50:20,822 - Acquiring data for argentina
+2020-10-25 17:50:21,308 - Acquiring data for armenia
+2020-10-25 17:50:21,766 - Acquiring data for aruba
+2020-10-25 17:50:22,206 - Acquiring data for australia
+2020-10-25 17:50:22,740 - Acquiring data for austria
+2020-10-25 17:50:23,209 - Acquiring data for azerbaijan
+2020-10-25 17:50:23,693 - Acquiring data for bahamas
+2020-10-25 17:50:24,161 - Acquiring data for bahrain
+2020-10-25 17:50:24,653 - Acquiring data for bangladesh
+2020-10-25 17:50:25,144 - Acquiring data for barbados
+2020-10-25 17:50:25,623 - Acquiring data for belarus
+2020-10-25 17:50:26,082 - Acquiring data for belgium
+2020-10-25 17:50:26,558 - Acquiring data for belize
+2020-10-25 17:50:27,009 - Acquiring data for benin
+2020-10-25 17:50:27,479 - Acquiring data for bermuda
+2020-10-25 17:50:27,933 - Acquiring data for bhutan
+2020-10-25 17:50:28,195 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:50:28,195 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:50:28,396 - Acquiring data for bolivia
+2020-10-25 17:50:28,859 - Acquiring data for bonaire-st-eustatius-saba
+2020-10-25 17:50:29,301 - Acquiring data for bosnia-and-herzegovina
+2020-10-25 17:50:29,763 - Acquiring data for botswana
+2020-10-25 17:50:30,230 - Acquiring data for brazil
+2020-10-25 17:50:30,705 - Acquiring data for british-antarctic-territory
+2020-10-25 17:50:30,942 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:50:30,942 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:50:31,147 - Acquiring data for british-indian-ocean-territory
+2020-10-25 17:50:31,592 - Acquiring data for british-virgin-islands
+2020-10-25 17:50:32,071 - Acquiring data for brunei
+2020-10-25 17:50:32,522 - Acquiring data for bulgaria
+2020-10-25 17:50:34,515 - Acquiring data for burkina-faso
+2020-10-25 17:50:34,970 - Acquiring data for burundi
+2020-10-25 17:50:35,430 - Acquiring data for cambodia
+2020-10-25 17:50:35,908 - Acquiring data for cameroon
+2020-10-25 17:50:36,407 - Acquiring data for canada
+2020-10-25 17:50:36,899 - Acquiring data for cape-verde
+2020-10-25 17:50:37,415 - Acquiring data for cayman-islands
+2020-10-25 17:50:37,872 - Acquiring data for central-african-republic
+2020-10-25 17:50:39,918 - Acquiring data for chad
+2020-10-25 17:50:40,378 - Acquiring data for chile
+2020-10-25 17:50:40,963 - Acquiring data for china
+2020-10-25 17:50:41,462 - Acquiring data for colombia
+2020-10-25 17:50:41,938 - Acquiring data for comoros
+2020-10-25 17:50:42,392 - Acquiring data for congo
+2020-10-25 17:50:42,871 - Acquiring data for cook-islands-tokelau-and-niue
+2020-10-25 17:50:43,316 - Acquiring data for costa-rica
+2020-10-25 17:50:43,784 - Acquiring data for cote-d-ivoire
+2020-10-25 17:50:44,255 - Acquiring data for croatia
+2020-10-25 17:50:44,718 - Acquiring data for cuba
+2020-10-25 17:50:45,202 - Acquiring data for curacao
+2020-10-25 17:50:45,651 - Acquiring data for cyprus
+2020-10-25 17:50:46,120 - Acquiring data for czech-republic
+2020-10-25 17:50:46,684 - Acquiring data for democratic-republic-of-the-congo
+2020-10-25 17:50:47,163 - Acquiring data for denmark
+2020-10-25 17:50:47,637 - Acquiring data for djibouti
+2020-10-25 17:50:48,082 - Acquiring data for dominica
+2020-10-25 17:50:48,538 - Acquiring data for dominican-republic
+2020-10-25 17:50:50,181 - Acquiring data for ecuador
+2020-10-25 17:50:50,737 - Acquiring data for egypt
+2020-10-25 17:50:52,949 - Acquiring data for el-salvador
+2020-10-25 17:50:53,419 - Acquiring data for equatorial-guinea
+2020-10-25 17:50:53,900 - Acquiring data for eritrea
+2020-10-25 17:50:54,370 - Acquiring data for estonia
+2020-10-25 17:50:54,823 - Acquiring data for eswatini
+2020-10-25 17:50:55,282 - Acquiring data for ethiopia
+2020-10-25 17:50:55,793 - Acquiring data for falkland-islands
+2020-10-25 17:50:56,244 - Acquiring data for fiji
+2020-10-25 17:50:56,718 - Acquiring data for finland
+2020-10-25 17:50:57,184 - Acquiring data for france
+2020-10-25 17:50:57,692 - Acquiring data for french-guiana
+2020-10-25 17:50:58,142 - Acquiring data for french-polynesia
+2020-10-25 17:50:58,598 - Acquiring data for gabon
+2020-10-25 17:50:59,063 - Acquiring data for the-gambia
+2020-10-25 17:50:59,527 - Acquiring data for georgia
+2020-10-25 17:50:59,997 - Acquiring data for germany
+2020-10-25 17:51:00,561 - Acquiring data for ghana
+2020-10-25 17:51:01,186 - Acquiring data for gibraltar
+2020-10-25 17:51:01,867 - Acquiring data for greece
+2020-10-25 17:51:02,433 - Acquiring data for grenada
+2020-10-25 17:51:02,944 - Acquiring data for guadeloupe
+2020-10-25 17:51:03,389 - Acquiring data for guatemala
+2020-10-25 17:51:03,877 - Acquiring data for guinea
+2020-10-25 17:51:04,340 - Acquiring data for guinea-bissau
+2020-10-25 17:51:04,865 - Acquiring data for guyana
+2020-10-25 17:51:05,328 - Acquiring data for haiti
+2020-10-25 17:51:05,805 - Acquiring data for honduras
+2020-10-25 17:51:06,281 - Acquiring data for hong-kong
+2020-10-25 17:51:06,800 - Acquiring data for hungary
+2020-10-25 17:51:07,272 - Acquiring data for iceland
+2020-10-25 17:51:07,746 - Acquiring data for india
+2020-10-25 17:51:08,264 - Acquiring data for indonesia
+2020-10-25 17:51:08,858 - Acquiring data for iran
+2020-10-25 17:51:09,409 - Acquiring data for iraq
+2020-10-25 17:51:09,926 - Acquiring data for ireland
+2020-10-25 17:51:10,410 - Acquiring data for israel
+2020-10-25 17:51:10,903 - Acquiring data for italy
+2020-10-25 17:51:11,417 - Acquiring data for jamaica
+2020-10-25 17:51:11,915 - Acquiring data for japan
+2020-10-25 17:51:12,409 - Acquiring data for jordan
+2020-10-25 17:51:12,905 - Acquiring data for kazakhstan
+2020-10-25 17:51:14,135 - Acquiring data for kenya
+2020-10-25 17:51:16,089 - Acquiring data for kiribati
+2020-10-25 17:51:16,534 - Acquiring data for kosovo
+2020-10-25 17:51:16,983 - Acquiring data for kuwait
+2020-10-25 17:51:17,441 - Acquiring data for kyrgyzstan
+2020-10-25 17:51:17,906 - Acquiring data for laos
+2020-10-25 17:51:18,387 - Acquiring data for latvia
+2020-10-25 17:51:18,856 - Acquiring data for lebanon
+2020-10-25 17:51:19,343 - Acquiring data for lesotho
+2020-10-25 17:51:19,893 - Acquiring data for liberia
+2020-10-25 17:51:20,367 - Acquiring data for libya
+2020-10-25 17:51:20,706 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:51:20,706 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:51:20,908 - Acquiring data for liechtenstein
+2020-10-25 17:51:21,357 - Acquiring data for lithuania
+2020-10-25 17:51:21,846 - Acquiring data for luxembourg
+2020-10-25 17:51:22,096 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:51:22,097 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:51:22,299 - Acquiring data for macao
+2020-10-25 17:51:22,759 - Acquiring data for madagascar
+2020-10-25 17:51:23,267 - Acquiring data for malawi
+2020-10-25 17:51:23,751 - Acquiring data for malaysia
+2020-10-25 17:51:24,223 - Acquiring data for maldives
+2020-10-25 17:51:24,689 - Acquiring data for mali
+2020-10-25 17:51:25,174 - Acquiring data for malta
+2020-10-25 17:51:25,632 - Acquiring data for marshall-islands
+2020-10-25 17:51:26,077 - Acquiring data for martinique
+2020-10-25 17:51:26,637 - Acquiring data for mauritania
+2020-10-25 17:51:27,080 - Acquiring data for mauritius
+2020-10-25 17:51:27,553 - Acquiring data for mayotte
+2020-10-25 17:51:27,980 - Acquiring data for mexico
+2020-10-25 17:51:28,447 - Acquiring data for micronesia
+2020-10-25 17:51:28,887 - Acquiring data for moldova
+2020-10-25 17:51:29,357 - Acquiring data for monaco
+2020-10-25 17:51:29,789 - Acquiring data for mongolia
+2020-10-25 17:51:30,263 - Acquiring data for montenegro
+2020-10-25 17:51:30,778 - Acquiring data for montserrat
+2020-10-25 17:51:31,232 - Acquiring data for morocco
+2020-10-25 17:51:31,713 - Acquiring data for mozambique
+2020-10-25 17:51:32,212 - Acquiring data for myanmar
+2020-10-25 17:51:32,723 - Acquiring data for namibia
+2020-10-25 17:51:33,169 - Acquiring data for nauru
+2020-10-25 17:51:33,610 - Acquiring data for nepal
+2020-10-25 17:51:34,078 - Acquiring data for netherlands
+2020-10-25 17:51:34,569 - Acquiring data for new-caledonia
+2020-10-25 17:51:35,009 - Acquiring data for new-zealand
+2020-10-25 17:51:35,476 - Acquiring data for nicaragua
+2020-10-25 17:51:35,930 - Acquiring data for niger
+2020-10-25 17:51:36,409 - Acquiring data for nigeria
+2020-10-25 17:51:36,920 - Acquiring data for north-korea
+2020-10-25 17:51:37,372 - Acquiring data for north-macedonia
+2020-10-25 17:51:37,817 - Acquiring data for norway
+2020-10-25 17:51:38,269 - Acquiring data for oman
+2020-10-25 17:51:38,746 - Acquiring data for pakistan
+2020-10-25 17:51:39,239 - Acquiring data for palau
+2020-10-25 17:51:39,681 - Acquiring data for the-occupied-palestinian-territories
+2020-10-25 17:51:41,871 - Acquiring data for panama
+2020-10-25 17:51:42,343 - Acquiring data for papua-new-guinea
+2020-10-25 17:51:42,803 - Acquiring data for paraguay
+2020-10-25 17:51:43,260 - Acquiring data for peru
+2020-10-25 17:51:43,732 - Acquiring data for philippines
+2020-10-25 17:51:44,211 - Acquiring data for pitcairn-island
+2020-10-25 17:51:44,659 - Acquiring data for poland
+2020-10-25 17:51:45,188 - Acquiring data for portugal
+2020-10-25 17:51:45,671 - Acquiring data for qatar
+2020-10-25 17:51:46,241 - Acquiring data for reunion
+2020-10-25 17:51:46,913 - Acquiring data for romania
+2020-10-25 17:51:47,493 - Acquiring data for russia
+2020-10-25 17:51:48,009 - Acquiring data for rwanda
+2020-10-25 17:51:48,460 - Acquiring data for samoa
+2020-10-25 17:51:48,916 - Acquiring data for san-marino
+2020-10-25 17:51:50,524 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:51:50,524 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:51:50,724 - Acquiring data for sao-tome-and-principe
+2020-10-25 17:51:51,163 - Acquiring data for saudi-arabia
+2020-10-25 17:51:51,643 - Acquiring data for senegal
+2020-10-25 17:51:52,100 - Acquiring data for serbia
+2020-10-25 17:51:52,555 - Acquiring data for seychelles
+2020-10-25 17:51:53,068 - Acquiring data for sierra-leone
+2020-10-25 17:51:53,531 - Acquiring data for singapore
+2020-10-25 17:51:53,990 - Acquiring data for slovakia
+2020-10-25 17:51:54,450 - Acquiring data for slovenia
+2020-10-25 17:51:54,992 - Acquiring data for solomon-islands
+2020-10-25 17:51:55,450 - Acquiring data for somalia
+2020-10-25 17:51:55,889 - Acquiring data for south-africa
+2020-10-25 17:51:56,356 - Acquiring data for south-georgia-and-south-sandwich-islands
+2020-10-25 17:51:56,598 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:51:56,598 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:51:56,798 - Acquiring data for south-korea
+2020-10-25 17:51:57,251 - Acquiring data for south-sudan
+2020-10-25 17:51:57,691 - Acquiring data for spain
+2020-10-25 17:51:58,168 - Acquiring data for sri-lanka
+2020-10-25 17:51:58,626 - Acquiring data for st-helena-ascension-and-tristan-da-cunha
+2020-10-25 17:51:59,082 - Acquiring data for st-kitts-and-nevis
+2020-10-25 17:51:59,513 - Acquiring data for st-lucia
+2020-10-25 17:51:59,966 - Acquiring data for st-maarten
+2020-10-25 17:52:00,432 - Acquiring data for st-martin-and-st-barthelemy
+2020-10-25 17:52:00,865 - Acquiring data for st-pierre-and-miquelon
+2020-10-25 17:52:01,300 - Acquiring data for st-vincent-and-the-grenadines
+2020-10-25 17:52:01,782 - Acquiring data for sudan
+2020-10-25 17:52:02,322 - Acquiring data for suriname
+2020-10-25 17:52:02,991 - Acquiring data for sweden
+2020-10-25 17:52:03,477 - Acquiring data for switzerland
+2020-10-25 17:52:03,949 - Acquiring data for syria
+2020-10-25 17:52:04,389 - Acquiring data for taiwan
+2020-10-25 17:52:04,840 - Acquiring data for tajikistan
+2020-10-25 17:52:05,298 - Acquiring data for tanzania
+2020-10-25 17:52:05,755 - Acquiring data for thailand
+2020-10-25 17:52:06,235 - Acquiring data for timor-leste
+2020-10-25 17:52:06,670 - Acquiring data for togo
+2020-10-25 17:52:07,110 - Acquiring data for tonga
+2020-10-25 17:52:07,604 - Acquiring data for trinidad-and-tobago
+2020-10-25 17:52:08,058 - Acquiring data for tunisia
+2020-10-25 17:52:08,538 - Acquiring data for turkey
+2020-10-25 17:52:09,058 - Acquiring data for turkmenistan
+2020-10-25 17:52:09,522 - Acquiring data for turks-and-caicos-islands
+2020-10-25 17:52:10,033 - Acquiring data for tuvalu
+2020-10-25 17:52:10,492 - Acquiring data for usa
+2020-10-25 17:52:10,978 - Acquiring data for uganda
+2020-10-25 17:52:11,452 - Acquiring data for ukraine
+2020-10-25 17:52:11,972 - Acquiring data for united-arab-emirates
+2020-10-25 17:52:13,140 - Acquiring data for uruguay
+2020-10-25 17:52:13,645 - Acquiring data for uzbekistan
+2020-10-25 17:52:14,114 - Acquiring data for vanuatu
+2020-10-25 17:52:14,630 - Acquiring data for venezuela
+2020-10-25 17:52:15,102 - Acquiring data for vietnam
+2020-10-25 17:52:15,575 - Acquiring data for wallis-and-futuna
+2020-10-25 17:52:16,020 - Acquiring data for western-sahara
+2020-10-25 17:52:16,256 - 'NoneType' object has no attribute 'next_elements'
+2020-10-25 17:52:16,256 - Failed to identify a relevant section on coronavirus restrictions.
+2020-10-25 17:52:16,459 - Acquiring data for yemen
+2020-10-25 17:52:16,996 - Acquiring data for zambia
+2020-10-25 17:52:17,448 - Acquiring data for zimbabwe
+2020-10-25 17:52:19,014 - Model was constructed with shape (None, 100) for input Tensor("embedding_input:0", shape=(None, 100), dtype=float32), but it was called on an input with incompatible shape (None, 200).
