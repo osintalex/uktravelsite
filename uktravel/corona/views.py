@@ -3,6 +3,7 @@ from django.views.generic import ListView
 from django.db.models import Q
 from . import plots
 from .models import Country
+import pandas as pd
 
 
 # Create your views here.
@@ -51,7 +52,7 @@ class SearchResultsView(ListView):
 
         if (len(query) > 3) and (len(query) < 30) and all(char.isalpha() or char == ' ' for char in query):
             object_list = Country.objects.filter(
-                Q(name__icontains=query)
+                Q(name__icontains=query, date_of_information=pd.Timestamp("today").strftime("%Y-%m-%d"))
             ).values()
             if object_list:
                 for x in object_list:
