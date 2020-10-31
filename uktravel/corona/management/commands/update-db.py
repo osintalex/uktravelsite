@@ -3,7 +3,6 @@ import json
 import logging
 import os
 import time
-import unicodedata
 
 import pandas as pd
 import numpy as np
@@ -21,6 +20,7 @@ Run this with python manage.py update-db getdata'.
 
 class Command(BaseCommand):
     data_directory = os.getcwd() + "/corona/data/"
+
     help = (
         "Run a script to retrieve data from UK Gov API and add to the website database"
     )
@@ -195,8 +195,9 @@ class Command(BaseCommand):
                 level=logging.INFO,
                 format="%(asctime)s - %(message)s",
             )
+            countries_list_filepath = os.getcwd() + "/corona/data/countries-list.csv"
             countries_list = pd.read_csv(
-                os.getcwd() + "/corona/data/countries-list.csv"
+                countries_list_filepath
             )["Countries"].to_list()
             coronavirus_info = []
             quarantine_info = []

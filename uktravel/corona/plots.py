@@ -40,7 +40,7 @@ def convert_country_names():
             df = outbound
         elif counter == 1:
             df = pd.read_csv(item)
-
+        df["Country"] = df["Country"].astype('str')
         df["Country"] = df["Country"].str.lower()
         orig_countries = df["Country"].to_list()
         orig_countries = [str(x).strip() for x in orig_countries]
@@ -75,6 +75,7 @@ def convert_country_names():
                 logger.error(e)
 
         df["Iso Country"] = iso_countries
+        df["Iso Country"] = df["Iso Country"].astype('str')
         df = df[~df["Iso Country"].str.contains("not found")]
 
         if counter == 0:
